@@ -3,7 +3,7 @@
 
 Este es un curso que se dictará en dos modalidades:
 1. Virtual:  Agosto 28 -  Septiembre 30  
-2. Presencial: Octubre 1 - Diciembre 13  (Martes 2:00 pm - 8:00 pm)
+2. Presencial: Octubre 1 - Diciembre 13  (Martes 7:00 am - 13:00 pm)
 
 ## Semana 1  Agosto 26 - Agosto 30
 
@@ -78,10 +78,10 @@ Due on 27.09.2019 at 12:00 pm
 
 ## Semana 16 - Diciembre 6 - Diciembre 10
 
-Second examination: 07.12.2019
+Second examination: 03.12.2019
  
 Submission of second report: Image analysis using GEE
-Due on 12.12.2019 at 12:00 pm
+Due on 09.12.2019 at 12:00 pm
 
   
 
