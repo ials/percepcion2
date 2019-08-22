@@ -33,7 +33,7 @@ Este es un curso que se dictará en dos modalidades:
 ## Semana 5 - Septiembre 23 - Septiembre 27
 
 Submission of first report: Land cover classification using R
-Due on 27.09.2019 at 12:00 pm
+Due on 14.10.2019 at 12:00 pm
 
 ## Semana 6 - Septiembre 30 - Octubre 4
 
