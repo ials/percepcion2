@@ -1,7 +1,7 @@
 # Bienvenidos al curso Percepción Remota Avanzada  
 # UNAL - 2019 - Segundo Período Académico 
 
-Este es un curso que se dictará en dos modalidades:
+Este es un curso que se dictará en dos etapas:
 1. Virtual:  Agosto 28 -  Septiembre 30  
 2. Presencial: Octubre 1 - Diciembre 13  (Martes 7:00 am - 13:00 pm)
 
