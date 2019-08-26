@@ -9,7 +9,7 @@ Este es un curso que se dictará en dos etapas:
 
 - Presentación:
   - Session 0.  [Course Introduction - Only HTML Slides](https://ials.github.com/pra/pra_S0.html)
-                [Course Introduction - Video](https://drive.google.com/open?id=1OcM4KSFFjcuYmnHvXZ3TU8i-igH--mt5) **Needs log in with UNAL e-mail to google drive**
+  - Session 0.  [Course Introduction - Slides plus video](https://drive.google.com/open?id=1OcM4KSFFjcuYmnHvXZ3TU8i-igH--mt5) **Needs log in with UNAL e-mail to google drive**
 - Task:  
   - Students define study area & input images for their first report: "Land cover classification in XYZ using R"
 
