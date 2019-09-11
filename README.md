@@ -65,7 +65,7 @@ Este es un curso que se dictará en dos etapas:
 
 - Task:  
   - Students publish their first report on RPUbs: "Land cover classification in XYZ using R"
-  - Due date:  October
+  - Due date:  October 11th
  
 ## Semana 8 - Octubre 14 - Octubre 18
 
