@@ -52,6 +52,9 @@ Este es un curso que se dictará en dos etapas:
 
 - Tópicos:     Perspectiva conceptual de la percepción remota
 
+- Lecturas:   [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
+              [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://sites.google.com/unal.edu.co/geom-pra/1-perspectiva-conceptual?authuser=0#h.p_eMNnZWGDCk6J) (Wang, Deng & Fan, 2018) 
+
 - Práctica:    GEE 
 
 - Task:  
