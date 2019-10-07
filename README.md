@@ -65,7 +65,12 @@ Este es un curso que se dictará en dos etapas:
 
 ## Semana 7 - Octubre 7 - Octubre 11
 
-- Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes
+- Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Textura)
+  - [Texture Metrics Background](L3 Harris Geospatial, 2019)
+
+- Lecturas:
+  
+  [Practical guidelines for choosing GLCM textures to use in landscape classification tasks over a range of moderate spatial scales](https://drive.google.com/file/d/1p9enf0E5wNSQnry6MYW_Bk3thN1_k_Xa/view?) (Hall-Beyer, 2017)
 
 - Práctica:    GEE 
 
