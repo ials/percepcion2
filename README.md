@@ -66,7 +66,7 @@ Este es un curso que se dictará en dos etapas:
 ## Semana 7 - Octubre 7 - Octubre 11
 
 - Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Textura)
-  - [Texture Metrics Background](L3 Harris Geospatial, 2019)
+  - [Texture Metrics Background](https://www.harrisgeospatial.com/docs/backgroundtexturemetrics.html)(L3 Harris Geospatial, 2019)
 
 - Lecturas:
   
