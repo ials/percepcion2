@@ -86,6 +86,10 @@ Este es un curso que se dictará en dos etapas:
 
 - Demostración Práctica: *Semantic segmentation of aerial images with deep networks*
   - [DeepNetsForEO.ipynb](https://drive.google.com/drive/u/0/folders/1txvCRgY1uu7kL8KnWQ18KbVuEBJ9qLVw)     
+  
+- Lectura:
+  - [Beyond RGB: Very High Resolution Urban Remote
+Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
 - Task:  
   - Students present to the class  their first report: "Land cover classification in XYZ using R"
