@@ -80,16 +80,19 @@ Este es un curso que se dictará en dos etapas:
  
 ## Semana 8 - Octubre 14 - Octubre 18
 
-- Tópicos:   Corrección radiométrica de imágenes
+- Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
+  -[Deep Learning for Remote Sensing](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
+  -[Bertrand Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
-- Práctica:    GEE 
+- Demostración Práctica: *Semantic segmentation of aerial images with deep networks*
+  - [DeepNetsForEO.ipynb](https://drive.google.com/drive/u/0/folders/1txvCRgY1uu7kL8KnWQ18KbVuEBJ9qLVw)     
 
 - Task:  
   - Students present to the class  their first report: "Land cover classification in XYZ using R"
 
 ## Semana 9 - Octubre 21 - Octubre 25
 
-- Tópicos:   Corrección geométrica de imágenes
+- Tópicos:   Corrección radiométrica de imágenes
 
 - Práctica:    GEE 
  
