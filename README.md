@@ -110,13 +110,17 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 - First examination: 05.11.2019
 
-- Tópicos:   Percepción Remota de la Vegetación 1
+- Tópicos:   Percepción Remota de la Vegetación
 
 - Práctica:    GEE 
 
 ## Semana 12 - Noviembre 11 - Noviembre 15
 
-- Tópicos:  Percepción Remota de la Vegetación 2
+- Tópicos:  GEE Applications Examples:
+  - [Night-time lights: A global, long term look at
+links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
+
+  - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine]
 
 - Task:  
   - Students write their second report: "Image analysis using GEE"
