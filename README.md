@@ -120,7 +120,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   - [Night-time lights: A global, long term look at
 links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
 
-  - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine]
+  - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
 
 - Task:  
   - Students write their second report: "Image analysis using GEE"
