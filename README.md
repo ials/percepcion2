@@ -127,14 +127,19 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 ## Semana 13 - Noviembre 18 - Noviembre 22
 
-- Tópicos:  Percepción Remota de la Vegetación 3
+- Tópicos:  
+  - Image classification:  Theoretical background (Caetano, nd)[https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing]
+  - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
+  - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
 
 - Task:  
   - Students revise & proofread  their second report: "Image analysis using GEE"
 
 ## Semana 14 - Noviembre 25 - Noviembre 29
 
-- Tópicos: Percepción Remota de Recursos Hídricos 1
+- Tópicos: 
+  - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
+  - Thematic accuracy assessment
 
 - Task:  
   - Students revise & proofread  their second report: "Image analysis using GEE"
