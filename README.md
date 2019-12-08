@@ -154,6 +154,8 @@ Second examination: 03.12.2019
   - Students publish on google sites  their second report: "Image analysis for ABC using GEE"
 
 ## Semana 16 - Diciembre 6 - Diciembre 10
+
+[Grades](https://drive.google.com/file/d/17Z1z3nZW4RfFNse7sHFMKl9xZ1l2pzxG/view?usp=sharing) -  Consolidated till 08.12.2019
  
 Submission of second report: Image analysis using GEE
 Due on 09.12.2019 at 12:00 pm
