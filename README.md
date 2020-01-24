@@ -156,13 +156,12 @@ Second examination: 03.12.2019
 ## Semana 16 - Diciembre 6 - Diciembre 10
 
 [Grades](https://drive.google.com/file/d/17Z1z3nZW4RfFNse7sHFMKl9xZ1l2pzxG/view?usp=sharing) -  Consolidated till 08.12.2019
- 
+
 Submission of second report: Image analysis using GEE
-Due on 09.12.2019 at 12:00 pm
+Due on 23.12.2019 at 12:00 pm - Late reports will receive half the obtained grade
 
 - Task:  
-  - Students present to the class  their second  report: "Image analysis for ABC using GEE"
-  
+  - Students present to the class  their advances on the second  report: "Image analysis for ABC using GEE"
 
 ## [Notas](https://drive.google.com/file/d/1ujga7THKL5RhLt0u0JDMCZMXYsGNUc3i/view?usp=sharing) - Consolidadas el 24.01.2020
 
