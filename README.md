@@ -164,5 +164,5 @@ Due on 09.12.2019 at 12:00 pm
   - Students present to the class  their second  report: "Image analysis for ABC using GEE"
   
 
-
+## [Notas](https://drive.google.com/file/d/1ujga7THKL5RhLt0u0JDMCZMXYsGNUc3i/view?usp=sharing) - Consolidadas el 24.01.2020
 
