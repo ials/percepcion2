@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Percepción Remota Avanzada</title>
+    <title>Percepción Remota</title>
     <meta charset="utf-8">
     <meta name="author" content="Ivan Lizarazo" />
     <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
@@ -13,16 +13,9 @@ class: center, middle, inverse, title-slide
 # Percepción Remota Avanzada
 ## Sesión 0
 ### Ivan Lizarazo
-### 2019-08-27 (updated: 2019-08-22)
+### 2020-03-04 (updated: 2020-03-04)
 
 ---
-
-
-
-
-
-
-
 
 background-image: url(images/EOlongstrip.PNG)
 background-size: 800px
@@ -30,9 +23,10 @@ background-position: 50% 90%
 
 ## Course Objectives
 
-To improve understanding of remote sensing concepts, methods, and techniques and create awareness of their advantages &amp; limitations for supporting *sustainable development* applications. 
+To understand and apply remote sensing concepts, methods, and techniques and create awareness of their advantages &amp; limitations for supporting *sustainable development* applications. 
 
-Class discussions, reading &amp; practical assignments, and class lectures enable students to develop remote sensing projects to understand and/or address a *sustainable development goal*.
+Class discussions, reading &amp; practical assignments, and class lectures enable students to develop remote sensing image processing and analysis to understand 
+and/or address a *sustainable development goal*.
 
 ---
 
@@ -46,7 +40,6 @@ background-size: contain
 
 # Agenda
 ========================================================
-  
   
 - Course overview 
 
@@ -70,16 +63,15 @@ class: inverse, middle, center
 ========================================================
 - No programming knowledge assumed BUT you know R (and want to know more about it)
 
-- A previous course on remote sensing basics is necessary
-      - You understand basic concepts of remote sensing image analysis
+- A previous course on geomatics is necessary
+      - You understand basic concepts of spatial data models, structures and formats
 
 - Class attendance is mandatory 
-  - *Virtual* stage: from 28.08 to 31.09
-  - *Presencial* stage: from 01.10 to 13.12
+  - *Presencial* stage: from 04.03 to 24.06
 
 - Class will be _very_ cumulative
       
-- Stay tuned to news at [https://ials.github.io/pra/](https://ials.github.io/pra/)
+- Stay tuned to news at [https://sites.google.com/unal.edu.co/perc](https://sites.google.com/unal.edu.co/perc)
 
 ---
 
@@ -89,11 +81,12 @@ class: inverse, middle, center
   - First session: concepts, methods, examples
   - Second session:  practical labs
   
-- Two exams (50%)
+- Three written exams (50%)
 
-- Two practical assignments (50%):
-  - A report on image analysis using R   (25%)
-  - A report on image analysis using GEE (25%)
+- Three practical assignments (50%):
+  - A technical report on image analysis using R   (15%)
+  - A technical report on image analysis using GEE (15%)
+  - A technical report on **improved** image analysis using any tool  (20%) 
     
 - To pass the class,  the minimum score is 3.0/5.0
     
@@ -103,15 +96,19 @@ class: inverse, middle, center
 ========================================================
   
 - Exams  
-  - There will be &lt;b&gt;2&lt;/b&gt; exams:    
-  - First Exam __on Noviembre 5 at 7:00 am__
-  - Second Exam __on Diciembre 7  at 7:00 am__
+  - There will be **three* written exams:    
+    - First Exam __on April 15th at 2:00 pm__
+    - Second Exam __on Mayo 13th  at 2:00 pm__
+    - Third Exam __on June 17th  at 2:00 pm__
+  - Bring your notebook - No Internet - No mobile devices - No photocopies
    
 - Technical reports 
-  - No. 1 Applying **R** to obtain environmental information from remote sensing data in your region
-    -  __due on October 14 at 12:00  pm__
-  - No. 2 applying **GEE** to obtain environmental information from remote sensing data in your region
-    - __due on Diciembre 9 at 12:00 pm__  
+  - No. 1 Applying **R** to process & analyze remote sensing data in any region
+    -  __due on April 22th at 11:59  pm__
+  - No. 2 applying **GEE** to process & analyze remote sensing data in any region
+    - __due on May 20th at 11:59 pm__  
+  - No. 3 applying **GEE** to obtain & analyze SDG-related information in a **Colombian region**
+    - __due on June 24th at 11:59 pm__   
   - Late reports (up to 24 hours later) __will receive half percent of its mark__
 
 ---
@@ -253,18 +250,16 @@ background-size: 300px
 background-position: 90% 0%
 
 # Upcoming Lectures
-## From 1 October onwards
+## From 4th March onwards
 ========================================================
-1. Conceptual perspective of remote sensing
-1. Trends in remote sensing image analysis
-1. Earth Observation data &amp; platforms
-1. Radiometric correction of remotely sensed images
-1. Geometric correction of remotely sensed images
-1. Spectral transformations
-1. Algorithms for classification and regression
-1. Remote Sensing of Vegetation
-1. Remote Sensing of Water Resources
-
+0- Percepción remota y PDI
+1- Datos de imágenes digitales
+2- Estadística de imágenes
+3- Visualización e interpretación  de imágenes
+4- Principios de radiación electromagnética y corrección radiométrica
+5- Correcciones geométricas
+6- Transformaciones espectrales
+7- Extracción de información temática
 
 ---
 background-image: url(https://www.r-project.org/logo/Rlogo.svg)
@@ -292,33 +287,27 @@ background-image: url(images/rpubs.png)
 background-size: 500px
 background-position: 50% 90%
 
-# Report 1
+# Technical Reports
 ========================================================
 
-Write a **reproducible**  R-based image analysis report to understand, explain or address any SDG in **your study area**. Publish it on [RPubs](https://rpubs.com/)
+Write  **reproducible**  image processing & analysis reports. 
 
+Publish online every report, either  on [RPubs](https://rpubs.com/) or Google Sites.
+
+A technical report should be:
+- clear, concise, and complete, with assumptions plainly identified and data presented,
+- with precise logic, with relevance to practices described, and 
+- with actual accomplishments of the work clearly stated and honestly appraised.      
+      
 A report can be truly reproducible when:
-
 - All methods are fully reported.
 - All data and files used for the analysis are (publicly) available.
-- The process of analyzing raw data is well reported and preserved.
+- The process of processing  and analyzing raw data is detailed reported and preserved.
 
 ---
 background-image: url(images/GEElogo.png)
 background-size: 900px
 background-position: 50% 85%
-
-# Report 2
-========================================================
-
-Write a **reproducible** GEE-based image analysis report to understand, explain or address any SDG in **your study area**. Publish it online (Google sites?)
-
-Make sure that your report should be truly reproducible.
----
-
-background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)
-background-size: contain
-class: center, middle
 
 # Thanks!
     </textarea>
