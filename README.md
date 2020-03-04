@@ -1,23 +1,18 @@
 # Bienvenidos al curso Percepción Remota Avanzada  
-# UNAL - 2019 - Segundo Período Académico 
+# UNAL - 2020 - Primer Período Académico 
 
-Este es un curso que se dictará en dos etapas:
-1. Virtual:  Agosto 28 -  Septiembre 30  
-2. Presencial: Octubre 1 - Diciembre 13  (Martes 7:00 am - 13:00 pm)
+Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 24 de junio (miércoles entre 2:00 pm y 6:00 pm)
 
-## Semana 1  Agosto 26 - Agosto 30
+## Semana 1  March 2 - March 6
 
 - Presentación:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/pra/pra_S0.html)
-  - Session 0.  [Course Intro - Slides + video](https://bit.ly/340CoBF) **Needs log in to google drive using UNAL e-mail **
-- Task:  
-  - Students define study area & input images for their first report: "Land cover classification in XYZ using R"
-
+  
 - Práctica:
   - Lab 0    [Getting started with RPubs](https://rpubs.com/about/getting-started)
   - Lab 1    [Introduction to Remote Sensing Image Analysis with R](https://rspatial.org/rs/1-introduction.html) 
     
-## Semana 2 - Septiembre 2 - Septiembre 6
+## Semana 2 - March 9 - March 13
 
 - Task:  
   - Students download & subset images for their first report: "Land cover classification in XYZ using R"
@@ -27,7 +22,7 @@ Este es un curso que se dictará en dos etapas:
   - Lab 3     [Basic mathematic operations](https://rspatial.org/rs/3-basicmath.html)
  
  
-## Semana 3 - Septiembre 9 - Septiembre 13
+## Semana 3 - March 16 - March 20
 
 - Práctica:
    Lab 5     [Unsupervised classification](https://rspatial.org/rs/4-unsupclassification.html)
@@ -35,7 +30,7 @@ Este es un curso que se dictará en dos etapas:
 - Task:  
   - Students  conduct unsupervised clasification for their first report: "Land cover classification in XYZ using R"
 
-## Semana 4 - Septiembre 16 - Septiembre 20
+## Semana 4 - March 23 - March 27
 
 - Práctica:
   - Lab 6     [Supervised classification](https://rspatial.org/rs/4-unsupclassification.html)  
@@ -43,12 +38,15 @@ Este es un curso que se dictará en dos etapas:
 - Task:  
   - Students  conduct supervised clasification for their first report: "Land cover classification in XYZ using R"
 
-## Semana 5 - Septiembre 23 - Septiembre 27
+## Semana 5 - March 30 - April 3
 
 - Task:  
   - Students write their first report : "Land cover classification in XYZ using R"
 
-## Semana 6 - Septiembre 30 - Octubre 4
+## Semana 6 - April 6 - April 10
+
+- Task:  
+  - Students continue write their first report : "Land cover classification in XYZ using R"
 
 - Tópicos:     Perspectiva conceptual de la percepción remota
 
