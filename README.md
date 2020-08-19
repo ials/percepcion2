@@ -7,56 +7,50 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 1  Agosto 24 - Agosto 28
 
-- Presentación:
+- Lectures:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/pra/pra_S0.html)
+  - Session 1.  Conceptual perspective of remote sensing
   
-- Práctica:
-  - Lab 0    [Getting started with RPubs](https://rpubs.com/about/getting-started)
-  - Lab 1    [Introduction to Remote Sensing Image Analysis with R](https://rspatial.org/rs/1-introduction.html) 
-    
-## Semana 2 - Agosto 31 - Septiembre 4
-
-- Task:  
-  - Students download & subset images for their first report: "Land cover classification in XYZ using R"
-
-- Práctica:
-  - Lab 2     [Image Exploration](https://rspatial.org/rs/2-exploration.html)   
-  - Lab 3     [Basic mathematic operations](https://rspatial.org/rs/3-basicmath.html)
- 
- 
-## Semana 3 - Septiembre 7 - Septiembre 11
-
-- Práctica:
-   Lab 5     [Unsupervised classification](https://rspatial.org/rs/4-unsupclassification.html)
-   
-- Task:  
-  - Students  conduct unsupervised clasification for their first report: "Land cover classification in XYZ using R"
-
-## Semana 4 - Septiembre 14 - Septiembre 18
-
-- Práctica:
-  - Lab 6     [Supervised classification](https://rspatial.org/rs/4-unsupclassification.html)  
+- Practical:
+  - Lab 1    [Introduction to Conda & Jupyter Notebook]()
   
-- Task:  
-  - Students  conduct supervised clasification for their first report: "Land cover classification in XYZ using R"
-
-## Semana 5 - Septiembre 21 - Septiembre 25
-
-- Task:  
-  - Students write their first report : "Land cover classification in XYZ using R"
-
-## Semana 6 - Septiembre 28 - Octubre 2
-
-- Task:  
-  - Students continue write their first report : "Land cover classification in XYZ using R"
-
-- Tópicos:     Perspectiva conceptual de la percepción remota
-
-- Lecturas:
-
+- Readings:
   [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
 
   [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://sites.google.com/unal.edu.co/geom-pra/1-perspectiva-conceptual?authuser=0#h.p_eMNnZWGDCk6J) (Wang, Deng & Fan, 2018) 
+    
+## Semana 2 - Agosto 31 - Septiembre 4
+
+- Lecture:
+ - Session 2.  SAR: Principles  and Processing Techniques
+
+- Practical:
+  - Lab 2     [Crop monitoring with  Sentinel-1 data]() 
+
+- Readings:
+  [Spaceborne Synthetic Aperture Radar:
+Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
+  
+  
+  
+## Semana 3 - Septiembre 7 - Septiembre 11
+
+- Practical:
+  - Lab 3    
+   
+- Task:  
+  - Students  define data & application for their first report: "SAR image analysis"
+
+## Semana 4 - Septiembre 14 - Septiembre 18
+
+
+
+## Semana 5 - Septiembre 21 - Septiembre 25
+
+
+
+## Semana 6 - Septiembre 28 - Octubre 2
+
 
 - Práctica:    GEE 
 
