@@ -8,7 +8,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 1  Agosto 24 - Agosto 28
 
 - Lectures:
-  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/pra/pra_S0.html)
+  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)
   - Session 1.  Conceptual perspective of remote sensing
   
 - Practical:
