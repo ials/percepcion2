@@ -1,9 +1,11 @@
 # Bienvenidos al curso Percepción Remota Avanzada  
-# UNAL - 2020 - Primer Período Académico 
+# UNAL - 2020 - Segundo Período Académico 
 
-Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 24 de junio (miércoles entre 2:00 pm y 6:00 pm)
+Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (miércoles entre 2:00 pm y 6:00 pm)
 
-## Semana 1  March 2 - March 6
+*Mientras no se autorice el ingreso al campus de la Universidad Nacional, las clases se desarrollarán de manera virtual*
+
+## Semana 1  Agosto 24 - Agosto 28
 
 - Presentación:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/pra/pra_S0.html)
@@ -12,7 +14,7 @@ Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 2
   - Lab 0    [Getting started with RPubs](https://rpubs.com/about/getting-started)
   - Lab 1    [Introduction to Remote Sensing Image Analysis with R](https://rspatial.org/rs/1-introduction.html) 
     
-## Semana 2 - March 9 - March 13
+## Semana 2 - Agosto 31 - Septiembre 4
 
 - Task:  
   - Students download & subset images for their first report: "Land cover classification in XYZ using R"
@@ -22,7 +24,7 @@ Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 2
   - Lab 3     [Basic mathematic operations](https://rspatial.org/rs/3-basicmath.html)
  
  
-## Semana 3 - March 16 - March 20
+## Semana 3 - Septiembre 7 - Septiembre 11
 
 - Práctica:
    Lab 5     [Unsupervised classification](https://rspatial.org/rs/4-unsupclassification.html)
@@ -30,7 +32,7 @@ Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 2
 - Task:  
   - Students  conduct unsupervised clasification for their first report: "Land cover classification in XYZ using R"
 
-## Semana 4 - March 23 - March 27
+## Semana 4 - Septiembre 14 - Septiembre 18
 
 - Práctica:
   - Lab 6     [Supervised classification](https://rspatial.org/rs/4-unsupclassification.html)  
@@ -38,12 +40,12 @@ Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 2
 - Task:  
   - Students  conduct supervised clasification for their first report: "Land cover classification in XYZ using R"
 
-## Semana 5 - March 30 - April 3
+## Semana 5 - Septiembre 21 - Septiembre 25
 
 - Task:  
   - Students write their first report : "Land cover classification in XYZ using R"
 
-## Semana 6 - April 6 - April 10
+## Semana 6 - Septiembre 28 - Octubre 2
 
 - Task:  
   - Students continue write their first report : "Land cover classification in XYZ using R"
@@ -61,7 +63,7 @@ Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 2
 - Task:  
   - Students revise & proofread  their first report : "Land cover classification in XYZ using R"
 
-## Semana 7 - Octubre 7 - Octubre 11
+## Semana 7 - Octubre 5 - Octubre 9
 
 - Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Textura)
   - [Texture Metrics Background](https://www.harrisgeospatial.com/docs/backgroundtexturemetrics.html)(L3 Harris Geospatial, 2019)
@@ -76,7 +78,7 @@ Este es un curso que se dictará de manera presencial entre el 4 de marzo y el 2
   - Students publish their first report on RPUbs: "Land cover classification in XYZ using R"
   - Due date:  October 11th
  
-## Semana 8 - Octubre 14 - Octubre 18
+## Semana 8 - Octubre 12 - Octubre 16
 
 - Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
   -[Deep Learning for Remote Sensing](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
@@ -92,19 +94,19 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Task:  
   - Students present to the class  their first report: "Land cover classification in XYZ using R"
 
-## Semana 9 - Octubre 21 - Octubre 25
+## Semana 9 - Octubre 19 - Octubre 23
 
 - Tópicos:   Corrección radiométrica de imágenes
 
 - Práctica:    GEE 
  
-## Semana 10 - Octubre 28 - Noviembre 1
+## Semana 10 - Octubre 26 - Octubre 30
 
 - Tópicos:   Transformaciones espectrales
 
 - Práctica:    GEE 
 
-## Semana 11 - Noviembre 4 - Noviembre 8
+## Semana 11 - Noviembre 2 - Noviembre 6
 
 - First examination: 05.11.2019
 
@@ -112,7 +114,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 - Práctica:    GEE 
 
-## Semana 12 - Noviembre 11 - Noviembre 15
+## Semana 12 - Noviembre 9 - Noviembre 13
 
 - Tópicos:  GEE Applications Examples:
   - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
@@ -123,7 +125,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Task:  
   - Students write their second report: "Image analysis using GEE"
 
-## Semana 13 - Noviembre 18 - Noviembre 22
+## Semana 13 - Noviembre 16 - Noviembre 20
 
 - Tópicos:  
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing)
@@ -133,7 +135,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Task:  
   - Students revise & proofread  their second report: "Image analysis using GEE"
 
-## Semana 14 - Noviembre 25 - Noviembre 29
+## Semana 14 - Noviembre 23 -  Noviembre 27
 
 - Tópicos: 
   - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
@@ -142,7 +144,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Task:  
   - Students revise & proofread  their second report: "Image analysis using GEE"
 
-## Semana 15 - Diciembre 2 - Diciembre 6
+## Semana 15 - Noviembre 30 - Diciembre 4
 
 - Tópicos: Percepción Remota de Recursos Hídricos 2
 
@@ -151,7 +153,7 @@ Second examination: 03.12.2019
 - Task:  
   - Students publish on google sites  their second report: "Image analysis for ABC using GEE"
 
-## Semana 16 - Diciembre 6 - Diciembre 10
+## Semana 16 - Diciembre 7 - Diciembre 11
 
 [Grades](https://drive.google.com/file/d/17Z1z3nZW4RfFNse7sHFMKl9xZ1l2pzxG/view?usp=sharing) -  Consolidated till 08.12.2019
 
@@ -161,5 +163,5 @@ Due on 23.12.2019 at 12:00 pm - Late reports will receive half the obtained grad
 - Task:  
   - Students present to the class  their advances on the second  report: "Image analysis for ABC using GEE"
 
-## [Notas](https://drive.google.com/file/d/1ujga7THKL5RhLt0u0JDMCZMXYsGNUc3i/view?usp=sharing) - Consolidadas el 24.01.2020
+## [Notas](TBD) - Consolidadas el 18.12.2020
 
