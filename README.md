@@ -9,10 +9,10 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 - Lectures:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)
-  - Session 1.  Conceptual perspective of remote sensing
+  - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.com/percepcion2/pra_S0.html)
   
-- Practical:
-  - Lab 1    [Introduction to Conda & Jupyter Notebook](TBD)
+- Home activities:
+  - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  See links [here](https://ials.github.io/percepcion2/pra_S0.html#31)
   
 - Readings:
   - [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
@@ -22,57 +22,83 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 2 - Agosto 31 - Septiembre 4
 
 - Lecture:
- - Session 2.  SAR: Principles  and Processing Techniques
+  - Session 2.  SAR: Principles  and Processing Techniques
 
-- Practical:
-  - Lab 2     [Crop monitoring with  Sentinel-1 data]() 
+- Home activities:
+  - Crop monitoring with  Sentinel-1 data (SNAP Practical):
+    -  [General Approach]()
+    -  [Step-by-Step Guide]()
+    -  [Data]()
 
 - Readings:
   - [Spaceborne Synthetic Aperture Radar]():
-  - [Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
   
-
-  
-## Semana 3 - Septiembre 7 - Septiembre 11
-
-- Practical:
-  - Lab 3    
-   
 - Task:  
   - Students  define data & application for their first report: "SAR image analysis"
+  
+ 
+## Semana 3 - Septiembre 7 - Septiembre 11
+
+- Lecture:   SAR: ....
+  - Session 3.  
+
+- Home activities:
+  - SAR ...
+  
+- Readings:
+  - [Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
+
+- Task:  
+  - Students  start writing  their first report: "SAR image analysis"
+  
 
 ## Semana 4 - Septiembre 14 - Septiembre 18
 
+- Lecture:   SAR: ....
+  - Session 4.  
 
+- Home activities:
+  - ...
+   
+- Task:  
+  - Students  continue writing  their first report: "SAR image analysis"
 
 ## Semana 5 - Septiembre 21 - Septiembre 25
 
+- Lecture:   SAR: ....
+  - Session 5.  
 
+- Home activities:
+  - ...
+   
+- Task:  
+  - Students keep writing their first report: "SAR image analysis"
 
 ## Semana 6 - Septiembre 28 - Octubre 2
 
+- Lecture:   SAR: ....
+  - Session 6.  
 
-- Práctica:    GEE 
-
+- Home activities:
+  - ...
+   
 - Task:  
-  - Students revise & proofread  their first report : "Land cover classification in XYZ using R"
+  - Students revise  their first report : "SAR image analysis"
 
 ## Semana 7 - Octubre 5 - Octubre 9
 
-- Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Textura)
-  - [Texture Metrics Background](https://www.harrisgeospatial.com/docs/backgroundtexturemetrics.html)(L3 Harris Geospatial, 2019)
+- **First Exam on 8 October at 2:00 pm**
 
-- Lecturas:
-  
-  [Practical guidelines for choosing GLCM textures to use in landscape classification tasks over a range of moderate spatial scales](https://drive.google.com/file/d/1p9enf0E5wNSQnry6MYW_Bk3thN1_k_Xa/view?) (Hall-Beyer, 2017)
-
-- Práctica:    GEE 
+- Lecture:
+  - Session
 
 - Task:  
-  - Students publish their first report on RPUbs: "Land cover classification in XYZ using R"
-  - Due date:  October 11th
+  - Students proofread their first report: "SAR image analysis"
+
  
 ## Semana 8 - Octubre 12 - Octubre 16
+ 
+  - **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
 
 - Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
   -[Deep Learning for Remote Sensing](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
@@ -117,7 +143,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
 
 - Task:  
-  - Students write their second report: "Image analysis using GEE"
+  - Students write their second report: "Image analysis using ML & DL"
 
 ## Semana 13 - Noviembre 16 - Noviembre 20
 
@@ -127,7 +153,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
 
 - Task:  
-  - Students revise & proofread  their second report: "Image analysis using GEE"
+  - Students continue writing their second report: "Image analysis using ML & DL"
 
 ## Semana 14 - Noviembre 23 -  Noviembre 27
 
@@ -136,26 +162,27 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - Thematic accuracy assessment
 
 - Task:  
-  - Students revise & proofread  their second report: "Image analysis using GEE"
+  - Students revise  their second report: "Image analysis using ML & DL"
 
 ## Semana 15 - Noviembre 30 - Diciembre 4
+
+**Second Exam on 3 December at 2:00 pm**
 
 - Tópicos: Percepción Remota de Recursos Hídricos 2
 
 Second examination: 03.12.2019
 
 - Task:  
-  - Students publish on google sites  their second report: "Image analysis for ABC using GEE"
+  - Students proofread  their second report: "Image analysis using ML & DL"
 
 ## Semana 16 - Diciembre 7 - Diciembre 11
 
-[Grades](https://drive.google.com/file/d/17Z1z3nZW4RfFNse7sHFMKl9xZ1l2pzxG/view?usp=sharing) -  Consolidated till 08.12.2019
-
-Submission of second report: Image analysis using GEE
-Due on 23.12.2019 at 12:00 pm - Late reports will receive half the obtained grade
+**Students publish their second report: "Image analysis using ML & DL" not later than 10 December at 11:59 pm**
 
 - Task:  
-  - Students present to the class  their advances on the second  report: "Image analysis for ABC using GEE"
+  - Students present to the class  their second  report: "Image analysis using ML & DL"
 
-## [Notas](TBD) - Consolidadas el 18.12.2020
+## Semana 17 - Diciembre 14 - Diciembre 18
+
+## [Notas](TBD) - Consolidadas el 17.12.2020
 
