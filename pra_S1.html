@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Percepción Remota Avanzada</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Ivan Lizarazo" />
+    <link rel="stylesheet" href="middlebury.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Percepción Remota Avanzada
+## Sesión 1
+### Ivan Lizarazo
+### 2020-08-20 (updated: 2020-08-24)
+
+---
+
+background-image: url(slides/RS_liang.png)
+background-size: 800px
+background-position: 50% 90%
+
+# Conceptual perspective of remote sensing
+
+
+
+---
+
+class: inverse, middle, center
+background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)
+background-size: contain
+
+# Let's get started
+
+---
+
+# Agenda
+========================================================
+
+- From data to information and beyond
+
+- Earth Observation trends
+
+- Main stages in remote sensing image analysis
+
+- Technical challenges
+
+---
+class: inverse, middle, center
+
+# From data to information and beyond
+
+
+---
+
+background-image: url(slides/RS_from_observation.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Remote sensing starts from observations
+
+
+---
+
+background-image: url(slides/RS_logical_steps.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Remote sensing logical steps
+
+
+---
+
+
+background-image: url(slides/RS_observations.png)
+background-size: 400px
+background-position: 50% 90%
+
+### EO vs non-EO examples
+
+---
+
+background-image: url(slides/RS_DIKW.png)
+background-size: 400px
+background-position: 50% 90%
+
+### The data 2 wisdom triangle
+
+---
+
+background-image: url(slides/RS_ECV_1.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Essential Climate Variables -1
+
+
+---
+
+background-image: url(slides/RS_ECV_2.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Essential Climate Variables -2
+
+---
+
+background-image: url(slides/RS_ECV_3.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Essential Climate Variables -3
+
+---
+
+background-image: url(slides/RS_scales.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Spatial scale matters
+
+---
+
+background-image: url(slides/RS_story.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Earth Observation evolution
+
+---
+
+
+class: inverse, middle, center
+
+# Earth Observation trends
+
+---
+
+background-image: url(slides/RS_EO_trends_3.png)
+background-size: 400px
+background-position: 50% 90%
+
+### Spatial resolution vs Temporal resolution
+
+---
+
+background-image: url(slides/RS_EO_trends_4.png)
+background-size: 400px
+background-position: 50% 90%
+
+### EO services's growth
+
+---
+
+background-image: url(slides/RS_EO_trends_6.png)
+background-size: 400px
+background-position: 50% 90%
+
+### EO scientists: the shovel sellers?
+
+---
+
+class: inverse, middle, center
+# Main stages in remote sensing image analysis
+
+---
+background-image: url(slides/RS_key_components.png)
+background-size: 500px
+background-position: 50% 90%
+
+### A main task:
+### Move from raw data to analysis-ready data
+
+
+---
+
+
+class: inverse, middle, center
+
+# Technical challenges
+
+---
+
+background-image: url(images/RS_ATCOR.png)
+background-size: 800px
+background-position: 50% 50%
+
+---
+
+background-image: url(images/RS_ATCOR2.png)
+background-size: 800px
+background-position: 50% 50%
+
+## Atmospheric correction
+
+---
+
+background-image: url(images/RS_fusion.png)
+background-size: 800px
+background-position: 50% 50%
+
+## Image Fusion
+
+---
+background-image: url(images/RS_mapping.png)
+background-size: 800px
+background-position: 50% 50%
+
+## Mapping landcover
+
+---
+
+background-image: url(images/RS_estimation_1.png)
+background-size: 400px
+background-position: 50% 90%
+
+## Estimation of quantitative variables
+
+---
+background-image: url(images/RS_inverse_1.png)
+background-size: 400px
+background-position: 50% 90%
+
+## Inverse model -1
+---
+
+background-image: url(images/RS_inverse_2.png)
+background-size: 400px
+background-position: 50% 90%
+
+## Inverse model -2
+---
+background-image: url(images/RS_estimation_2.png)
+background-size: 400px
+background-position: 50% 90%
+
+## A data assimilation-based inversion framework
+
+
+---
+
+background-image: url(slides/RS_high_level.png)
+background-size: 400px
+background-position: 50% 90%
+
+## Product validation needs ground data
+
+---
+background-image: url(slides/RS_linking_EO.png)
+background-size: 400px
+background-position: 50% 90%
+
+## Linking EO to society
+
+
+---
+
+background-image: url(slides/RS_torture.png)
+background-size: 500px
+background-position: 50% 85%
+
+# Thanks!
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
