@@ -112,7 +112,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
 - Task:  
-  - Students present to the class  their first report: "Land cover classification in XYZ using R"
+  - Students present to the class  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 ## Semana 9 - Octubre 19 - Octubre 23
 
