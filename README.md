@@ -12,12 +12,12 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - Session 1.  Conceptual perspective of remote sensing
   
 - Practical:
-  - Lab 1    [Introduction to Conda & Jupyter Notebook]()
+  - Lab 1    [Introduction to Conda & Jupyter Notebook](TBD)
   
 - Readings:
-  [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
+  - [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
 
-  [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://sites.google.com/unal.edu.co/geom-pra/1-perspectiva-conceptual?authuser=0#h.p_eMNnZWGDCk6J) (Wang, Deng & Fan, 2018) 
+  - [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://sites.google.com/unal.edu.co/geom-pra/1-perspectiva-conceptual?authuser=0#h.p_eMNnZWGDCk6J) (Wang, Deng & Fan, 2018) 
     
 ## Semana 2 - Agosto 31 - Septiembre 4
 
@@ -28,10 +28,10 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - Lab 2     [Crop monitoring with  Sentinel-1 data]() 
 
 - Readings:
-  [Spaceborne Synthetic Aperture Radar:
-Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
+  - [Spaceborne Synthetic Aperture Radar]():
+  - [Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
   
-  
+
   
 ## Semana 3 - Septiembre 7 - Septiembre 11
 
