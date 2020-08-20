@@ -17,7 +17,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 - Readings:
   - [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
 
-  - [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://sites.google.com/unal.edu.co/geom-pra/1-perspectiva-conceptual?authuser=0#h.p_eMNnZWGDCk6J) (Wang, Deng & Fan, 2018) 
+  - [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://drive.google.com/file/d/14M5YMxxkoE_INkjnzHJkm1IBYV5wr9dQ/view) (Wang, Deng & Fan, 2018) 
     
 ## Semana 2 - Agosto 31 - Septiembre 4
 
