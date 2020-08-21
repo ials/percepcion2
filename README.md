@@ -39,11 +39,11 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
  
 ## Semana 3 - Septiembre 7 - Septiembre 11
 
-- Lecture:   SAR: ....
+- Lecture:   SAR: Polarimetry
   - Session 3.  
 
 - Home activities:
-  - SAR ...
+  - SAR  image analysis 
   
 - Readings:
   - [Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
@@ -54,33 +54,41 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 4 - Septiembre 14 - Septiembre 18
 
-- Lecture:   SAR: ....
+- Lecture:   SAR: Image interpretation
   - Session 4.  
 
 - Home activities:
-  - ...
-   
+  - SAR image analysis
+
+- Readings:
+  - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data]() (CEOS, 2018)
+
 - Task:  
   - Students  continue writing  their first report: "SAR image analysis"
 
 ## Semana 5 - Septiembre 21 - Septiembre 25
 
-- Lecture:   SAR: ....
+- Lecture:   UAV image processig
   - Session 5.  
 
 - Home activities:
-  - ...
+  - SAR image analysis
+  - OpenDroneMap
    
 - Task:  
   - Students keep writing their first report: "SAR image analysis"
 
 ## Semana 6 - Septiembre 28 - Octubre 2
 
-- Lecture:   SAR: ....
-  - Session 6.  
+- Lecture:   
+  - Session 6.  Machine Learning for Remote Sensing
+
+- Practical:
+  - ML using geemap - Jupyter notebook
 
 - Home activities:
-  - ...
+  - SAR image analysis
+  - Classification or regression using ML
    
 - Task:  
   - Students revise  their first report : "SAR image analysis"
@@ -90,7 +98,13 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 - **First Exam on 8 October at 2:00 pm**
 
 - Lecture:
-  - Session
+  - Session 7. Deep Learning Basics
+  
+- Practical:
+ - UCM LandUse Classification - Jupyter notebook
+  
+ - Home activities:
+  - DL image classification
 
 - Task:  
   - Students proofread their first report: "SAR image analysis"
@@ -100,14 +114,14 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
  
   - **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
 
-- Tópicos:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
+- Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
   -[Deep Learning for Remote Sensing](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
   -[Bertrand Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
-- Demostración Práctica: *Semantic segmentation of aerial images with deep networks*
+- Practical: *Semantic segmentation of aerial images with deep networks*
   - [DeepNetsForEO.ipynb](https://drive.google.com/drive/u/0/folders/1txvCRgY1uu7kL8KnWQ18KbVuEBJ9qLVw)     
   
-- Lectura:
+- Reading:
   - [Beyond RGB: Very High Resolution Urban Remote
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
@@ -116,23 +130,23 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 9 - Octubre 19 - Octubre 23
 
-- Tópicos:   Corrección radiométrica de imágenes
+- Lecture:   Deep Learning for Hyperspectral images
 
-- Práctica:    GEE 
+- Practical:  DeepHyperX - Python scrip
  
 ## Semana 10 - Octubre 26 - Octubre 30
 
-- Tópicos:   Transformaciones espectrales
+- Lecture:   Deep Learning for Water Resources
 
-- Práctica:    GEE 
+- Practical:    Jupyter notebook
 
 ## Semana 11 - Noviembre 2 - Noviembre 6
 
 - First examination: 05.11.2019
 
-- Tópicos:   Percepción Remota de la Vegetación
+- Tópicos:   Agriculture Remote Sensing
 
-- Práctica:    GEE 
+- Práctica:  PlantDoc  Jupyter notebook 
 
 ## Semana 12 - Noviembre 9 - Noviembre 13
 
@@ -168,7 +182,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 **Second Exam on 3 December at 2:00 pm**
 
-- Tópicos: Percepción Remota de Recursos Hídricos 2
+- Tópicos:  Remote sensing of soil moisture
 
 Second examination: 03.12.2019
 
@@ -180,7 +194,7 @@ Second examination: 03.12.2019
 **Students publish their second report: "Image analysis using ML & DL" not later than 10 December at 11:59 pm**
 
 - Task:  
-  - Students present to the class  their second  report: "Image analysis using ML & DL"
+  - Students present to the class  their second  report: "Image analysis using ML & DL" ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 ## Semana 17 - Diciembre 14 - Diciembre 18
 
