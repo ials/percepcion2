@@ -23,7 +23,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 2 - Agosto 31 - Septiembre 4
 
 - Lecture:
-  - Session 2.  SAR: Principles  and Processing Techniques
+  - Session 2.  SAR Principles  and Processing Techniques
 
 - Home activities:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):
@@ -40,8 +40,8 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
  
 ## Semana 3 - Septiembre 7 - Septiembre 11
 
-- Lecture:   SAR: Polarimetry
-  - Session 3.  
+- Lecture:   
+  - Session 3.  SAR Polarimetry
 
 - Home activities:
   - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
@@ -55,11 +55,12 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 4 - Septiembre 14 - Septiembre 18
 
-- Lecture:   SAR: Image interpretation
-  - Session 4.  
+- Lecture:   
+  - Session 4.  SAR Image interpretation
 
 - Home activities:
   - SAR image analysis
+  - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
 
 - Readings:
   - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data]() (CEOS, 2018)
@@ -69,8 +70,8 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 5 - Septiembre 21 - Septiembre 25
 
-- Lecture:   UAV image processing
-  - Session 5.  
+- Lecture:   
+  - Session 5.  UAV image processing
 
 - Home activities:
   - SAR image analysis
