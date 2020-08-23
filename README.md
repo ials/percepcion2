@@ -75,7 +75,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 - Home activities:
   - SAR image analysis
-  - OpenDroneMap
+  - [OpenDroneMap](https://www.opendronemap.org/)
    
 - Task:  
   - Students keep writing their first report: "SAR image analysis"
