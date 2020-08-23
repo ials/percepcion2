@@ -12,7 +12,8 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.com/percepcion2/pra_S1.html)
   
 - Home activities:
-  - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  See links [here](https://ials.github.io/percepcion2/pra_S0.html#31)
+  - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  
+    - Get links to tutorials [here](https://ials.github.io/percepcion2/pra_S0.html#31)
   
 - Readings:
   - [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
@@ -26,9 +27,9 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 - Home activities:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):
-    -  [General Approach]()
-    -  [Step-by-Step Guide]()
-    -  [Data]()
+    -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
+    -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
+    -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
 - Readings:
   - [Spaceborne Synthetic Aperture Radar]():
@@ -43,7 +44,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - Session 3.  
 
 - Home activities:
-  - SAR  image analysis 
+  - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
   
 - Readings:
   - [Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
@@ -104,7 +105,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
  - UCM LandUse Classification - Jupyter notebook
   
  - Home activities:
-  - DL image classification
+  - DL image classification using *fastai*
 
 - Task:  
   - Students proofread their first report: "SAR image analysis"
@@ -130,9 +131,9 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 9 - Octubre 19 - Octubre 23
 
-- Lecture:   Deep Learning for Hyperspectral images
+- Lecture:   Deep Learning for multispectral images
 
-- Practical:  DeepHyperX - Python scrip
+- Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
 ## Semana 10 - Octubre 26 - Octubre 30
 
