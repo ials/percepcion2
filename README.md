@@ -69,7 +69,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 5 - Septiembre 21 - Septiembre 25
 
-- Lecture:   UAV image processig
+- Lecture:   UAV image processing
   - Session 5.  
 
 - Home activities:
@@ -99,13 +99,14 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 - **First Exam on 8 October at 2:00 pm**
 
 - Lecture:
-  - Session 7. Deep Learning Basics
-  
+  - Session 7. Deep Learning Basics    
+
 - Practical:
  - UCM LandUse Classification - Jupyter notebook
   
  - Home activities:
-  - DL image classification using *fastai*
+  - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
+  - Try image classification using *fastai*
 
 - Task:  
   - Students proofread their first report: "SAR image analysis"
