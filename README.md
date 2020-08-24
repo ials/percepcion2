@@ -83,7 +83,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 6 - Septiembre 28 - Octubre 2
 
 - Lecture:   
-  - Session 6.  Machine Learning for Remote Sensing
+  - Session 6.  [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
 
 - Practical:
   - ML using geemap - Jupyter notebook
