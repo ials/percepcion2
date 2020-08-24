@@ -23,7 +23,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 2 - Agosto 31 - Septiembre 4
 
 - Lecture:
-  - Session 2.  SAR Principles  and Processing Techniques
+  - Session 2.  [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (NASA, 2020)
 
 - Home activities:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):
@@ -32,7 +32,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
 - Readings:
-  - [Spaceborne Synthetic Aperture Radar]():
+  - [Applications of SAR Data in GIS environments]() (NASA, 2020) 
   
 - Task:  
   - Students  define data & application for their first report: "SAR image analysis"
@@ -47,7 +47,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
   
 - Readings:
-  - [Principles, Data Access, and Basic Processing Techniques]() (Meyer, 2019).
+  - [Principles, Data Access, and Basic Processing Techniques](https://drive.google.com/file/d/1viucihQB3FWyI5JgODLnrL-LqHgXZWOL/view?usp=sharing) (Meyer, 2019).
 
 - Task:  
   - Students  start writing  their first report: "SAR image analysis"
