@@ -63,7 +63,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
 
 - Readings:
-  - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data]() (CEOS, 2018)
+  - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data](https://drive.google.com/file/d/1yfFCkaMeduqrCwSTxMogB5tXfhAaT-gF/view?usp=sharing) (CEOS, 2018)
 
 - Task:  
   - Students  continue writing  their first report: "SAR image analysis"
