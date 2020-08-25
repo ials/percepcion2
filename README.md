@@ -45,6 +45,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 - Home activities:
   - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
+  - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
   
 - Readings:
   - [Principles, Data Access, and Basic Processing Techniques](https://drive.google.com/file/d/1viucihQB3FWyI5JgODLnrL-LqHgXZWOL/view?usp=sharing) (Meyer, 2019).
@@ -60,7 +61,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 - Home activities:
   - SAR image analysis
-  - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
+  - [OpenSAR Toolkit](https://github.com/ESA-PhiLab/OpenSarToolkit)
 
 - Readings:
   - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data](https://drive.google.com/file/d/1yfFCkaMeduqrCwSTxMogB5tXfhAaT-gF/view?usp=sharing) (CEOS, 2018)
