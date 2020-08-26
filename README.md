@@ -146,9 +146,8 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 11 - Noviembre 2 - Noviembre 6
 
-- First examination: 05.11.2019
 
-- Tópicos:   Agriculture Remote Sensing
+- Tópicos:   Vegetation Remote Sensing
 
 - Práctica:  PlantDoc  Jupyter notebook 
 
@@ -187,8 +186,6 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 **Second Exam on 3 December at 2:00 pm**
 
 - Tópicos:  Remote sensing of soil moisture
-
-Second examination: 03.12.2019
 
 - Task:  
   - Students proofread  their second report: "Image analysis using ML & DL"
