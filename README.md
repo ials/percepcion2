@@ -8,9 +8,10 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 1  Agosto 24 - Agosto 28
 
 - Lectures:
-  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)
+  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)   
+    - [Meet recording](https://drive.google.com/open?id=1iu6X-etCrGHBsuWzMIr-Ees8rZfr_45p)
   - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.com/percepcion2/pra_S1.html)
-  
+    - [Meet recording](https://drive.google.com/open?id=1ORfOq-UoMWzrCGTTXv0XE-X-_7tzN-e3)
 - Home activities:
   - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  
     - Get links to tutorials [here](https://ials.github.io/percepcion2/pra_S0.html#31)
