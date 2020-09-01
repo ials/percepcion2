@@ -24,34 +24,35 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 2 - Agosto 31 - Septiembre 4
 
 - Lecture:
-  - Session 2.  [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (NASA, 2020)
-
+  - Session 2.  
+    - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (NASA, 2020)
+    - [Introduction to S1 & SNAP](https://drive.google.com/file/d/1Z2ZHFdDaqbNIyQuimcRrR3CVTCNaPKk-/view?usp=sharing) (ESA-MOST, 2017)
+                 
 - Home activities:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
-
-- Readings:
-  - [Applications of SAR Data in GIS environments]() (NASA, 2020) 
+    
+  - Readings:
+    - [A tutorial on Synthetic Aperture Radar](https://drive.google.com/file/d/1xXD_oWaecPFHOAe89RU54cKnnWmZ3Cuu/view?usp=sharing) (Moreira et al., 2013) 
   
-- Task:  
-  - Students  define data & application for their first report: "SAR image analysis"
+  - Task:  
+    - Students  define data & application for their first report: "SAR image analysis"
   
- 
 ## Semana 3 - Septiembre 7 - Septiembre 11
 
 - Lecture:   
-  - Session 3.  SAR Polarimetry
+  - Session 3.  [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
 
 - Home activities:
   - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
   - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
   
-- Readings:
+  - Readings:
   - [Principles, Data Access, and Basic Processing Techniques](https://drive.google.com/file/d/1viucihQB3FWyI5JgODLnrL-LqHgXZWOL/view?usp=sharing) (Meyer, 2019).
 
-- Task:  
+  - Task:  
   - Students  start writing  their first report: "SAR image analysis"
   
 
