@@ -31,7 +31,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
       - [Meet recording](https://drive.google.com/file/d/1vBn7-js_SumhNVzWtIlxYoL6LDbML39c/view)
                 
 - Home activities:
-  - Crop monitoring with  Sentinel-1 data (SNAP Practical):
+  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording](https://drive.google.com/file/d/1JeHg0uvKgUMy0Vo8T8qcJrzal9G5TK6F/view)
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
