@@ -45,7 +45,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 3 - Septiembre 7 - Septiembre 11
 
 - Lecture:   
-  - Session 3. 
+  - Session 3.  [Meet recording](https://drive.google.com/file/d/1tGtI1GyVxbwHdxePjM3OFbFEV6jfOqUq/view?usp=sharing) 
     - [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
     - [Synthetic Aperture Radar (SAR) & Google Earth Engine](https://drive.google.com/file/d/1JJuV3OknVqoaMBWz2i2JXP7FxpOQpdl5/view?usp=sharing)
     
