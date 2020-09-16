@@ -63,8 +63,10 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 4 - Septiembre 14 - Septiembre 18
 
-- Lecture:   
-  - Session 4.  SAR Image interpretation
+- Lecture:  [Meet recording 16.09.2020](https://drive.google.com/file/d/1qc1dhwXjc88xZN-8ZGwr0U3stOD-tRZ6/view?usp=sharing)   
+  - SAR image resolution
+  - GEE based Sentinel 1 Processing from Python
+  - Session 4.  SAR Image interpretation - TBD -
 
 - Home activities:
   - SAR image analysis
