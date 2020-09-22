@@ -81,14 +81,18 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 5 - Septiembre 21 - Septiembre 25
 
 - Lecture:   
-  - Session 5.  UAV image processing
+  - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
+  - [Current practices in environmental monitoring](https://drive.google.com/file/d/1xHPQU17aTjl2SapRlMCxKHLVLnEK3xo_/view?usp=sharing)
+  - [Mapping land cover with OS software and UHR imagery acquired with UAV](https://drive.google.com/file/d/1IsD8jPb3rbjXEvwE_BSe8mHjAxOW1Vsh/view?usp=sharing)
 
 - Home activities:
   - SAR image analysis
+    - Students keep writing their first report "SAR image analysis"
+
+- Optional:
   - [OpenDroneMap](https://www.opendronemap.org/)
-   
-- Task:  
-  - Students keep writing their first report: "SAR image analysis"
+  - [Nenetic](https://github.com/persts/Nenetic)
+
 
 ## Semana 6 - Septiembre 28 - Octubre 2
 
