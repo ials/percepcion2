@@ -80,7 +80,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
 ## Semana 5 - Septiembre 21 - Septiembre 25
 
-- Lecture:   
+- Lecture:  [Meet recording](https://drive.google.com/file/d/1OPSQrTHSiSOOquwYXp3wdBlUl_qj1eRc/view?usp=sharing) 
   - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
   - [Current practices in environmental monitoring](https://drive.google.com/file/d/1xHPQU17aTjl2SapRlMCxKHLVLnEK3xo_/view?usp=sharing)
   - [Mapping land cover with OS software and UHR imagery acquired with UAV](https://drive.google.com/file/d/1IsD8jPb3rbjXEvwE_BSe8mHjAxOW1Vsh/view?usp=sharing)
