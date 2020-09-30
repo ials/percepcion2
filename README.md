@@ -97,8 +97,10 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 ## Semana 6 - Septiembre 28 - Octubre 2
 
 - Lecture:   
-  - Session 6.  [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
-
+  - Session 6.  
+    - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
+    - [A Walk-Through on Machine Learning
+Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
 - Practical:
   - ML using geemap - Jupyter notebook
 
