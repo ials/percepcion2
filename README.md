@@ -113,7 +113,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 
 ## Semana 7 - Octubre 5 - Octubre 9
 
-- **First Exam on 8 October at 2:00 pm**
+- **First Exam on 7 October at 2:00 pm (25%)**  
 
 - Lecture:
   - Session 7. Deep Learning Basics    
