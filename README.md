@@ -118,6 +118,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 
 - Lecture:
   - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
+    - [Meet recording](https://drive.google.com/file/d/1gip8HfQFNDR5s1-1vRmosARw4j-63Bdf/view?usp=sharing)
 
 - Practical:
   - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
