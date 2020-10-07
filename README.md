@@ -120,7 +120,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
 
 - Practical:
-  - UCM LandUse Classification - Jupyter notebook
+  - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
   
  - Home activities:
    - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
