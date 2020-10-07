@@ -101,8 +101,9 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
     - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
     - [A Walk-Through on Machine Learning
 Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
+
 - Practical:
-  - ML using geemap - Jupyter notebook
+   - ML using geemap - Jupyter notebook
 
 - Home activities:
   - SAR image analysis
@@ -119,11 +120,11 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
 
 - Practical:
- - UCM LandUse Classification - Jupyter notebook
+  - UCM LandUse Classification - Jupyter notebook
   
  - Home activities:
-  - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
-  - Try image classification using *fastai*
+   - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
+   - Try image classification using *fastai*
 
 - Task:  
   - Students proofread their first report: "SAR image analysis"
