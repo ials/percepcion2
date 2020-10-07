@@ -116,7 +116,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 - **First Exam on 7 October at 2:00 pm (25%)**  
 
 - Lecture:
-  - Session 7. Deep Learning Basics    
+  - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
 
 - Practical:
  - UCM LandUse Classification - Jupyter notebook
