@@ -140,7 +140,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   -[Bertrand Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
 - Practical: *Semantic segmentation of aerial images with deep networks*
-  - [DeepNetsForEO.ipynb](https://drive.google.com/drive/u/0/folders/1txvCRgY1uu7kL8KnWQ18KbVuEBJ9qLVw)     
+  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe)     
   
 - Reading:
   - [Beyond RGB: Very High Resolution Urban Remote
