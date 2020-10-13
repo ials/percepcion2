@@ -133,7 +133,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
  
 ## Semana 8 - Octubre 12 - Octubre 16
  
-  - **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
+- **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
 
 - Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
   -[Deep Learning for Remote Sensing](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
