@@ -135,8 +135,12 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
  
 - **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
 
+- Task:  
+  - Students present to the class  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+
 - Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
-  -[Deep Learning for Remote Sensing](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
+  -[Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing)
+   - [](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
   -[Bertrand Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
 - Practical: *Semantic segmentation of aerial images with deep networks*
@@ -146,8 +150,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - [Beyond RGB: Very High Resolution Urban Remote
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
-- Task:  
-  - Students present to the class  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+
 
 ## Semana 9 - Octubre 19 - Octubre 23
 
