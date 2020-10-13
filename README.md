@@ -139,9 +139,10 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - Students present to the class  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 - Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
-  -[Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing)
-   - [](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
-  -[Bertrand Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
+     - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing) 
+     - References:
+       - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
+       - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
 - Practical: *Semantic segmentation of aerial images with deep networks*
   - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe)     
