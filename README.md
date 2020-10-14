@@ -151,6 +151,8 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - [Beyond RGB: Very High Resolution Urban Remote
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
+- Homework:
+  - **Students start working on their second report: "Image analysis using DL techniques (or ML techniques if you want it)"**
 
 
 ## Semana 9 - Octubre 19 - Octubre 23
