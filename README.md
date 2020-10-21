@@ -158,11 +158,13 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 9 - Octubre 19 - Octubre 23
 
-- Feedback on Report No, 1
+- Feedback on Report No. 1
   - [Grades](https://drive.google.com/file/d/1DFJyJWxTKYmlxxT1shqqHskCoi5x5u_J/view?usp=sharing)
   - Example of a good-quality article
 
 - Lecture:   Deep Learning for multispectral images
+
+- [Meet recording 21.10.2020](https://drive.google.com/file/d/1AQDr-hWZVOkb3FSI0vxhBItdWJOM7HUz/view?usp=sharing)
 
 - Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
