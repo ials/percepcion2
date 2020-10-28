@@ -181,9 +181,14 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 11 - Noviembre 2 - Noviembre 6
 
-- Tópicos:   Vegetation Remote Sensing
+- Topics:   Vegetation Remote Sensing
+  - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
+  - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
 
-- Práctica:  PlantDoc  Jupyter notebook 
+
+- Practical:
+  - Students work on thier second report
+  - PlantDoc  Jupyter notebook 
 
 ## Semana 12 - Noviembre 9 - Noviembre 13
 
