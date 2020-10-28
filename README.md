@@ -185,6 +185,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Topics:   Vegetation Remote Sensing
   - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
   - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
+  - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
 
 
 - Practical:
