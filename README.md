@@ -187,7 +187,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 
 - Practical:
-  - Students work on thier second report
+  - Students work on their second report
   - PlantDoc  Jupyter notebook 
 
 ## Semana 12 - Noviembre 9 - Noviembre 13
