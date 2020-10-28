@@ -170,12 +170,16 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
  
 ## Semana 10 - Octubre 26 - Octubre 30
 
-- Lecture:   Deep Learning for Water Resources
+- Topics:   
+  - [Convolutional Neural Networks Explained](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
+  - Deep Learning for Water Resurces
+    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
+    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
 
-- Practical:    Jupyter notebook
+- Practical:    
+  - Students adapt the Le Saux's notebook (or any other framework/toolbox ) for their second report
 
 ## Semana 11 - Noviembre 2 - Noviembre 6
-
 
 - Tópicos:   Vegetation Remote Sensing
 
