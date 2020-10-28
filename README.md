@@ -171,6 +171,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 ## Semana 10 - Octubre 26 - Octubre 30
 
 - Topics:   
+  - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
   - [Convolutional Neural Networks Explained](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
   - Deep Learning for Water Resurces
     - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
