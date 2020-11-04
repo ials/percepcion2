@@ -193,7 +193,10 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Practical:
   - Students work on their second report
   - PlantDoc  Jupyter notebook 
-
+  
+- Additional resources:
+  - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
+  
 ## Semana 12 - Noviembre 9 - Noviembre 13
 
 - Tópicos:  GEE Applications Examples:
