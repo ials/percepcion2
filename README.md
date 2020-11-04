@@ -188,6 +188,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
   - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
 
+- [Meet recording on 04.11.2020](https://drive.google.com/file/d/1DDgRN7Ouv4qswS9ZTibjCaXzc1UILBuT/view?usp=sharing)
 
 - Practical:
   - Students work on their second report
