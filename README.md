@@ -1,5 +1,5 @@
-# Percepción Remota Avanzada  
-# UNAL - 2020 - Segundo Período Académico 
+## Percepción Remota Avanzada  
+### UNAL - 2020 - Segundo Período Académico 
 
 Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (miércoles entre 2:00 pm y 6:00 pm)
 
