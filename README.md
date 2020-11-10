@@ -214,6 +214,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing)
   - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
+  - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
 
 - Task:  
   - Students continue writing their second report: "Image analysis using ML & DL"
