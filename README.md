@@ -210,13 +210,16 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 ## Semana 13 - Noviembre 16 - Noviembre 20
 
-- Tópicos:  
-  - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing)
+- Tópicos:    
+  - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
   - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
   - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
 
-- Task:  
+- Readings:
+  - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
+  
+- Independent task:  
   - Students continue writing their second report: "Image analysis using ML & DL"
 
 ## Semana 14 - Noviembre 23 -  Noviembre 27
@@ -225,7 +228,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
   - Thematic accuracy assessment
 
-- Task:  
+- Independent task:  
   - Students revise  their second report: "Image analysis using ML & DL"
 
 ## Semana 15 - Noviembre 30 - Diciembre 4
