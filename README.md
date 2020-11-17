@@ -228,6 +228,9 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
   - Thematic accuracy assessment
 
+- Readings:
+  - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
+
 - Independent task:  
   - Students revise  their second report: "Image analysis using ML & DL"
 
