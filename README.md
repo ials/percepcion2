@@ -211,6 +211,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 13 - Noviembre 16 - Noviembre 20
 
 - Tópicos:    
+  - [Meet recording on 18.11.2020](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
   - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
