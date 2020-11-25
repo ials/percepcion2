@@ -213,9 +213,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Tópicos:    
   - [Meet recording on 18.11.2020](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
-  - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
-  - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
-  - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
+
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
@@ -226,11 +224,9 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 14 - Noviembre 23 -  Noviembre 27
 
 - Tópicos: 
-  - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
-  - Thematic accuracy assessment
-
-- Readings:
-  - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
+  - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
+  - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
+  - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
 
 - Independent task:  
   - Students revise  their second report: "Image analysis using ML & DL"
@@ -238,6 +234,14 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 15 - Noviembre 30 - Diciembre 4
 
 **Second Exam on 3 December at 2:00 pm**
+
+- Tópicos: 
+  - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
+  - Thematic accuracy assessment
+
+- Readings:
+  - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
+
 
 - Tópicos:  Remote sensing of soil moisture
 
