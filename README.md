@@ -244,9 +244,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
-
-
-- Tópicos:  Remote sensing of soil moisture
+ -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
 
 - Task:  
   - Students proofread  their second report: "Image analysis using ML & DL"
