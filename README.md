@@ -212,6 +212,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 - Tópicos:    
   - [Meet recording on 18.11.2020](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
+  - Q&A on Technical Report No. 2
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
 
 
@@ -224,6 +225,8 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 14 - Noviembre 23 -  Noviembre 27
 
 - Tópicos: 
+  - [Meet recording on 25.11.2020](https://drive.google.com/file/d/1Cs4ZgoEhKn2rkoUVBJDVm5cWPm9TWlFf/view?usp=sharing)
+  - Q&A on Technical Report No. 2
   - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
   - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
