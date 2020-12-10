@@ -253,7 +253,8 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 **Students publish their second report: "Image analysis using ML & DL" not later than 10 December at 11:59 pm**
 
-- Task:  
+
+- [Meet recording on 09.12.2020](https://drive.google.com/file/d/1hwSkyyRJYJb9_pisSngiDbiQRWXoRAZz/view?usp=sharing):  
   - Students present to the class  their second  report: "Image analysis using ML & DL" ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 ## Semana 17 - Diciembre 14 - Diciembre 18
