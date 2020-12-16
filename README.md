@@ -259,5 +259,6 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 ## Semana 17 - Diciembre 14 - Diciembre 18
 
-## [Notas](TBD) - Consolidadas el 17.12.2020
+## [Evaluación Informe No. 2](https://drive.google.com/file/d/1CMLo1n10z0ybpEE5s8RW9eOtgcjGcHnr/view?usp=sharing)
+## [Notas Finales](https://drive.google.com/file/d/1TGcnFqmf852nZC0oF0lkErP-Cnml282D/view?usp=sharing) - Consolidadas el 16.12.2020
 
