@@ -1,11 +1,11 @@
 ## Percepción Remota Avanzada  
-### UNAL - 2020 - Segundo Período Académico 
+### UNAL - 2021 - Segundo Período Académico 
 
-Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (miércoles entre 2:00 pm y 6:00 pm)
+Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrero de 2022 (miércoles entre 2:00 pm y 6:00 pm)
 
 *Mientras no se autorice el ingreso al campus de la Universidad Nacional, las clases se desarrollarán de manera virtual*
 
-## Semana 1  Agosto 24 - Agosto 28
+## Semana 1  Octubre 4 - Octubre 8
 
 - Lectures:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)   
@@ -21,7 +21,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 
   - [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://drive.google.com/file/d/14M5YMxxkoE_INkjnzHJkm1IBYV5wr9dQ/view) (Wang, Deng & Fan, 2018) 
     
-## Semana 2 - Agosto 31 - Septiembre 4
+## Semana 2 - Octubre 11 - Octubre 15
 
 - Lecture:
   - Session 2.  
@@ -42,7 +42,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - Task:  
     - Students  define data & application for their first report: "SAR image analysis"
   
-## Semana 3 - Septiembre 7 - Septiembre 11
+## Semana 3 - Octubre 18 - Octubre 22
 
 - Lecture:   
   - Session 3.  [Meet recording - Part 1](https://drive.google.com/file/d/1tGtI1GyVxbwHdxePjM3OFbFEV6jfOqUq/view?usp=sharing) 
@@ -61,7 +61,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - Students  start writing  their first report: "SAR image analysis"
   
 
-## Semana 4 - Septiembre 14 - Septiembre 18
+## Semana 4 - Octubre 25 - Octubre 29
 
 - Lecture:  [Meet recording 16.09.2020](https://drive.google.com/file/d/1qc1dhwXjc88xZN-8ZGwr0U3stOD-tRZ6/view?usp=sharing)   
   - SAR image resolution
@@ -78,7 +78,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
 - Task:  
   - Students  continue writing  their first report: "SAR image analysis"
 
-## Semana 5 - Septiembre 21 - Septiembre 25
+## Semana 5 - Noviembre 1 - Noviembre 5
 
 - Lecture:  [Meet recording](https://drive.google.com/file/d/1OPSQrTHSiSOOquwYXp3wdBlUl_qj1eRc/view?usp=sharing) 
   - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
@@ -94,7 +94,7 @@ Este es un curso que se dictará  entre el 24 de agosto y el 11 de diciembre (mi
   - [Nenetic](https://github.com/persts/Nenetic)
 
 
-## Semana 6 - Septiembre 28 - Octubre 2
+## Semana 6 - Noviembre 8 - Noviembre 12
 
 - Lecture:   
   - Session 6.  
@@ -112,7 +112,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 - Task:  
   - Students revise  their first report : "SAR image analysis"
 
-## Semana 7 - Octubre 5 - Octubre 9
+## Semana 7 - Noviembre 15 - Noviembre 19
 
 - **First Exam on 7 October at 2:00 pm (25%)**  
 
@@ -131,7 +131,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - Students proofread their first report: "SAR image analysis"
 
  
-## Semana 8 - Octubre 12 - Octubre 16
+## Semana 8 - Noviembre 22 - Noviembre 26
  
 - **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
 
@@ -156,7 +156,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   - **Students start working on their second report: "Image analysis using DL techniques (or ML techniques if you want it)"**
 
 
-## Semana 9 - Octubre 19 - Octubre 23
+## Semana 9 - Noviembre 29 - Diciembre 3
 
 - Feedback on Report No. 1
   - [Grades](https://drive.google.com/file/d/1DFJyJWxTKYmlxxT1shqqHskCoi5x5u_J/view?usp=sharing)
@@ -168,7 +168,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 - Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
-## Semana 10 - Octubre 26 - Octubre 30
+## Semana 10 - Diciembre 6 - Diciembre 10
 
 - Topics:   
   - [Meet recording 28.10.2020](https://drive.google.com/file/d/1cDsr-MCmOR__r5v8Q9KhBODGH_SGVETq/view?usp=sharing)
@@ -181,7 +181,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Practical:    
   - Students adapt the Le Saux's notebook (or any other framework/toolbox ) for their second report
 
-## Semana 11 - Noviembre 2 - Noviembre 6
+## Semana 11 - Diciembre 13 - Diciembre 17
 
 - Topics:   Vegetation Remote Sensing
   - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
@@ -197,7 +197,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Additional resources:
   - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
   
-## Semana 12 - Noviembre 9 - Noviembre 13
+## Semana 12 - Enero 10 - Enero 14
 
 - Tópicos:  GEE Applications Examples:
   - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
@@ -208,7 +208,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Task:  
   - Students write their second report: "Image analysis using ML & DL"
 
-## Semana 13 - Noviembre 16 - Noviembre 20
+## Semana 13 - Enero 17 - Enero 21
 
 - Tópicos:    
   - [Meet recording on 18.11.2020](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
@@ -222,7 +222,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Independent task:  
   - Students continue writing their second report: "Image analysis using ML & DL"
 
-## Semana 14 - Noviembre 23 -  Noviembre 27
+## Semana 14 - Enero 24 -  Enero 28
 
 - Tópicos: 
   - [Meet recording on 25.11.2020](https://drive.google.com/file/d/1Cs4ZgoEhKn2rkoUVBJDVm5cWPm9TWlFf/view?usp=sharing)
@@ -234,7 +234,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Independent task:  
   - Students revise  their second report: "Image analysis using ML & DL"
 
-## Semana 15 - Noviembre 30 - Diciembre 4
+## Semana 15 - Enero 31 - Febrero 4
 
 **Second Exam on 3 December at 2:00 pm**
 
@@ -249,16 +249,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 - Task:  
   - Students proofread  their second report: "Image analysis using ML & DL"
 
-## Semana 16 - Diciembre 7 - Diciembre 11
+## Semana 16 - Febrero 7 - Febrero 11
 
-**Students publish their second report: "Image analysis using ML & DL" not later than 10 December at 11:59 pm**
-
-
-- [Meet recording on 09.12.2020](https://drive.google.com/file/d/1hwSkyyRJYJb9_pisSngiDbiQRWXoRAZz/view?usp=sharing):  
-  - Students present to the class  their second  report: "Image analysis using ML & DL" ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
-
-## Semana 17 - Diciembre 14 - Diciembre 18
-
-## [Evaluación Informe No. 2](https://drive.google.com/file/d/1CMLo1n10z0ybpEE5s8RW9eOtgcjGcHnr/view?usp=sharing)
-## [Notas Finales](https://drive.google.com/file/d/1TGcnFqmf852nZC0oF0lkErP-Cnml282D/view?usp=sharing) - Consolidadas el 16.12.2020
+**Publicación notas consolidadas**
 
