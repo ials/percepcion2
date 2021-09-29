@@ -8,9 +8,9 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 1  Octubre 4 - Octubre 8
 
 - Lectures:
-  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)   
+  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.io/percepcion2/pra_S0.html)   
     - [Meet recording]()
-  - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.com/percepcion2/pra_S1.html)
+  - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.io/percepcion2/pra_S1.html)
     - [Meet recording]()
 - Home activities:
   - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  
