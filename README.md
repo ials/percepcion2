@@ -3,7 +3,7 @@
 
 Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrero de 2022 (miércoles entre 2:00 pm y 6:00 pm)
 
-*Mientras no se autorice el ingreso al campus de la Universidad Nacional, las clases se desarrollarán de manera virtual*
+*Mientras no cambien sustancialmente las condiciones de la pandemia actual, las clases se desarrollarán de manera virtual*
 
 ## Semana 1  Octubre 4 - Octubre 8
 
