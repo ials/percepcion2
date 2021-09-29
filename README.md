@@ -9,9 +9,9 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lectures:
   - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.com/percepcion2/pra_S0.html)   
-    - [Meet recording](https://drive.google.com/open?id=1iu6X-etCrGHBsuWzMIr-Ees8rZfr_45p)
+    - [Meet recording]()
   - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.com/percepcion2/pra_S1.html)
-    - [Meet recording](https://drive.google.com/open?id=1ORfOq-UoMWzrCGTTXv0XE-X-_7tzN-e3)
+    - [Meet recording]()
 - Home activities:
   - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  
     - Get links to tutorials [here](https://ials.github.io/percepcion2/pra_S0.html#31)
@@ -26,12 +26,12 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 - Lecture:
   - Session 2.  
     - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
-      - [Meet recording](https://drive.google.com/file/d/1qmnWj3VdCBOnnL6dRA3D880je87aA-nM/view)
+      - [Meet recording]()
     - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
-      - [Meet recording](https://drive.google.com/file/d/1vBn7-js_SumhNVzWtIlxYoL6LDbML39c/view)
+      - [Meet recording]()
                 
 - Home activities:
-  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording](https://drive.google.com/file/d/1JeHg0uvKgUMy0Vo8T8qcJrzal9G5TK6F/view)
+  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording]()
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
@@ -60,7 +60,6 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
   - Task:  
   - Students  start writing  their first report: "SAR image analysis"
   
-
 ## Semana 4 - Octubre 25 - Octubre 29
 
 - Lecture:  [Meet recording 16.09.2020](https://drive.google.com/file/d/1qc1dhwXjc88xZN-8ZGwr0U3stOD-tRZ6/view?usp=sharing)   
@@ -114,7 +113,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 
 ## Semana 7 - Noviembre 15 - Noviembre 19
 
-- **First Exam on 7 October at 2:00 pm (25%)**  
+- **First Exam on 17 November at 2:00 pm (25%)**  
 
 - Lecture:
   - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
@@ -128,15 +127,14 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
    - Try image classification using *fastai*
 
 - Task:  
-  - Students proofread their first report: "SAR image analysis"
+  - Students proofread their first report: "SAR image analysis" and submit it before the deadline
 
- 
 ## Semana 8 - Noviembre 22 - Noviembre 26
  
-- **Students publish their first report: "SAR image analysis" not later than  14 October at  11:59 pm 
+- **Second report submission deadline: 23 February at 11:59 pm**
 
 - Task:  
-  - Students present to the class  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+  - Students present to the class  their first report on 24 November: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 - Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
      - [Meet recording](https://drive.google.com/file/d/1GG5veVQgEWhvGeZOwNXtXoeAChK3cqcL/view?usp=sharing)
@@ -164,14 +162,14 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 - Lecture:   Deep Learning for multispectral images
 
-- [Meet recording 21.10.2020](https://drive.google.com/file/d/1AQDr-hWZVOkb3FSI0vxhBItdWJOM7HUz/view?usp=sharing)
+- [Meet recording 21.10.2020]()
 
 - Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
 ## Semana 10 - Diciembre 6 - Diciembre 10
 
 - Topics:   
-  - [Meet recording 28.10.2020](https://drive.google.com/file/d/1cDsr-MCmOR__r5v8Q9KhBODGH_SGVETq/view?usp=sharing)
+  - [Meet recording 28.10.2020]()
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
   - [Convolutional Neural Networks Explained](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
   - Deep Learning for Water Resurces
@@ -215,7 +213,6 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
   - Q&A on Technical Report No. 2
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
 
-
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
   
@@ -225,7 +222,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 14 - Enero 24 -  Enero 28
 
 - Tópicos: 
-  - [Meet recording on 25.11.2020](https://drive.google.com/file/d/1Cs4ZgoEhKn2rkoUVBJDVm5cWPm9TWlFf/view?usp=sharing)
+  - [Meet recording]()
   - Q&A on Technical Report No. 2
   - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
@@ -236,7 +233,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 ## Semana 15 - Enero 31 - Febrero 4
 
-**Second Exam on 3 December at 2:00 pm**
+**Second Exam on 3 February at 2:00 pm (25%)**
 
 - Tópicos: 
   - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
@@ -247,9 +244,11 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
  -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
 
 - Task:  
-  - Students proofread  their second report: "Image analysis using ML & DL"
+  - Students proofread  their second report: "Image analysis using ML & DL" and submit it before the deadline
 
 ## Semana 16 - Febrero 7 - Febrero 11
 
-**Publicación notas consolidadas**
+- **Second report submission deadline: 8 February at 11:59 pm**
+
+-  **Publicación notas consolidadas**
 
