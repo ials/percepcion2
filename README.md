@@ -45,8 +45,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 3 - Octubre 18 - Octubre 22
 
 - Lecture:   
-  - Session 3.  [Meet recording - Part 1](https://drive.google.com/file/d/1tGtI1GyVxbwHdxePjM3OFbFEV6jfOqUq/view?usp=sharing) 
-                [Meet recording - Part 2](https://drive.google.com/file/d/1GY65Iu8F7C8z9eXfjCxsxcVUcEPn7dOl/view?usp=sharing)
+  - Session 3.  [Meet recording]()
     - [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
     - [Synthetic Aperture Radar (SAR) & Google Earth Engine](https://drive.google.com/file/d/1JJuV3OknVqoaMBWz2i2JXP7FxpOQpdl5/view?usp=sharing)
     
@@ -62,7 +61,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
   
 ## Semana 4 - Octubre 25 - Octubre 29
 
-- Lecture:  [Meet recording 16.09.2020](https://drive.google.com/file/d/1qc1dhwXjc88xZN-8ZGwr0U3stOD-tRZ6/view?usp=sharing)   
+- Lecture:  [Meet recording]()   
   - SAR image resolution
   - GEE based Sentinel 1 Processing from Python
   - Session 4.  SAR Image interpretation - TBD -
@@ -79,7 +78,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 ## Semana 5 - Noviembre 1 - Noviembre 5
 
-- Lecture:  [Meet recording](https://drive.google.com/file/d/1OPSQrTHSiSOOquwYXp3wdBlUl_qj1eRc/view?usp=sharing) 
+- Lecture:  [Meet recording]() 
   - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
   - [Current practices in environmental monitoring](https://drive.google.com/file/d/1xHPQU17aTjl2SapRlMCxKHLVLnEK3xo_/view?usp=sharing)
   - [Mapping land cover with OS software and UHR imagery acquired with UAV](https://drive.google.com/file/d/1IsD8jPb3rbjXEvwE_BSe8mHjAxOW1Vsh/view?usp=sharing)
@@ -131,7 +130,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 
 ## Semana 8 - Noviembre 22 - Noviembre 26
  
-- **Second report submission deadline: 23 February at 11:59 pm**
+- **First report submission deadline: 23 November at 11:59 pm**
 
 - Task:  
   - Students present to the class  their first report on 24 November: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
@@ -162,14 +161,14 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 - Lecture:   Deep Learning for multispectral images
 
-- [Meet recording 21.10.2020]()
+- [Meet recording]()
 
 - Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
 ## Semana 10 - Diciembre 6 - Diciembre 10
 
 - Topics:   
-  - [Meet recording 28.10.2020]()
+  - [Meet recording]()
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
   - [Convolutional Neural Networks Explained](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
   - Deep Learning for Water Resurces
@@ -186,7 +185,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
   - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
 
-- [Meet recording on 04.11.2020](https://drive.google.com/file/d/1DDgRN7Ouv4qswS9ZTibjCaXzc1UILBuT/view?usp=sharing)
+- [Meet recording](https://drive.google.com/file/d/1DDgRN7Ouv4qswS9ZTibjCaXzc1UILBuT/view?usp=sharing)
 
 - Practical:
   - Students work on their second report
@@ -209,7 +208,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 13 - Enero 17 - Enero 21
 
 - Tópicos:    
-  - [Meet recording on 18.11.2020](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
+  - [Meet recording](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
   - Q&A on Technical Report No. 2
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
 
@@ -249,6 +248,8 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 16 - Febrero 7 - Febrero 11
 
 - **Second report submission deadline: 8 February at 11:59 pm**
+
+-  Students present to the class  their second report on 9 February: "ML or DL-based image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 -  **Publicación notas consolidadas**
 
