@@ -25,13 +25,15 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lecture:
   - Session 2.  
-    -  [Radiometric correction](https://docs.google.com/presentation/d/1Y0YiaafZKNDDI60ZFx0Vjk7ZeUr6t1cd/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)   
+    -  [Radiometric correction](https://docs.google.com/presentation/d/1Y0YiaafZKNDDI60ZFx0Vjk7ZeUr6t1cd/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
+    -  Demonstration of SIAC on GEE 
   
  - Home activities:
    - [Try the SIAC either on GEE or in Python](https://github.com/MarcYin)
 
  - Readings:
    - [A sensor invariant atmospheric correction: Sentinel-2 & Landsat 8](https://drive.google.com/file/d/1eeSAXy-6avxiuwtZfTnCs3yWEV3pcM1U/view?usp=sharing)
+   - [Harmonization of Sentinel 2 & Landsat 8 for crop monitoring](https://drive.google.com/file/d/1x4HaeParvMWcmxOiJ5asjC3PAyfCVAXI/view?usp=sharing)
  
 
 ## Semana 3 - Octubre 18 - Octubre 22
