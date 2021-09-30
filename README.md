@@ -25,6 +25,19 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lecture:
   - Session 2.  
+    -  [Radiometric correction](https://docs.google.com/presentation/d/1Y0YiaafZKNDDI60ZFx0Vjk7ZeUr6t1cd/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)   
+  
+ - Home activities:
+   - [Try the SIAC either on GEE or in Python](https://github.com/MarcYin)
+
+ - Readings:
+   - [A sensor invariant atmospheric correction: Sentinel-2 & Landsat 8](https://drive.google.com/file/d/1eeSAXy-6avxiuwtZfTnCs3yWEV3pcM1U/view?usp=sharing)
+ 
+
+## Semana 3 - Octubre 18 - Octubre 22
+
+- Lecture:
+  - Session 3.  
     - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
       - [Meet recording]()
     - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
@@ -35,46 +48,32 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
+    -  Students  define data & application for their first report: "SAR image analysis"
     
   - Readings:
     - [A tutorial on Synthetic Aperture Radar](https://drive.google.com/file/d/1xXD_oWaecPFHOAe89RU54cKnnWmZ3Cuu/view?usp=sharing) (Moreira et al., 2013) 
-  
-  - Task:  
-    - Students  define data & application for their first report: "SAR image analysis"
-  
-## Semana 3 - Octubre 18 - Octubre 22
+      
+## Semana 4 - Octubre 25 - Octubre 29
 
 - Lecture:   
-  - Session 3.  [Meet recording]()
+  - Session 4.  [Meet recording]()
     - [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
     - [Synthetic Aperture Radar (SAR) & Google Earth Engine](https://drive.google.com/file/d/1JJuV3OknVqoaMBWz2i2JXP7FxpOQpdl5/view?usp=sharing)
     
 - Home activities:
   - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
   - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
-  
-  - Readings:
-  - [Principles, Data Access, and Basic Processing Techniques](https://drive.google.com/file/d/1viucihQB3FWyI5JgODLnrL-LqHgXZWOL/view?usp=sharing) (Meyer, 2019).
-
-  - Task:  
   - Students  start writing  their first report: "SAR image analysis"
   
-## Semana 4 - Octubre 25 - Octubre 29
-
-- Lecture:  [Meet recording]()   
-  - SAR image resolution
-  - GEE based Sentinel 1 Processing from Python
-  - Session 4.  SAR Image interpretation - TBD -
-
-- Home activities:
-  - SAR image analysis
+  - Readings:
+  - [Principles, Data Access, and Basic Processing Techniques](https://drive.google.com/file/d/1viucihQB3FWyI5JgODLnrL-LqHgXZWOL/view?usp=sharing) (Meyer, 2019).  
+  
+- Additional resources:
   - [OpenSAR Toolkit](https://github.com/ESA-PhiLab/OpenSarToolkit)
 
-- Readings:
+- Additional references:
   - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data](https://drive.google.com/file/d/1yfFCkaMeduqrCwSTxMogB5tXfhAaT-gF/view?usp=sharing) (CEOS, 2018)
 
-- Task:  
-  - Students  continue writing  their first report: "SAR image analysis"
 
 ## Semana 5 - Noviembre 1 - Noviembre 5
 
