@@ -3,15 +3,14 @@
 
 Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrero de 2022 (miércoles entre 2:00 pm y 6:00 pm)
 
-*Mientras no cambien sustancialmente las condiciones de la pandemia actual, las clases se desarrollarán de manera virtual*
+*Mientras no se modifique la situación de pandemia, las clases se desarrollarán de manera virtual*
 
 ## Semana 1  Octubre 4 - Octubre 8
 
 - Lectures:
-  - Session 0.  [Course Intro - Only HTML Slides](https://ials.github.io/percepcion2/pra_S0.html)   
-    - [Meet recording]()
-  - Session 1.  [Conceptual perspective of remote sensing](https://ials.github.io/percepcion2/pra_S1.html)
-    - [Meet recording]()
+  - [Course Intro - Only HTML Slides](https://ials.github.io/percepcion2/pra_S0.html)   
+  - [Conceptual perspective of remote sensing](https://ials.github.io/percepcion2/pra_S1.html)
+
 - Home activities:
   - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  
     - Get links to tutorials [here](https://ials.github.io/percepcion2/pra_S0.html#31)
@@ -24,7 +23,6 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 2 - Octubre 11 - Octubre 15
 
 - Lecture:
-  - Session 2.  
     -  [Radiometric correction](https://docs.google.com/presentation/d/1Y0YiaafZKNDDI60ZFx0Vjk7ZeUr6t1cd/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
     -  Demonstration of SIAC on GEE 
   
@@ -39,11 +37,10 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 3 - Octubre 18 - Octubre 22
 
 - Lecture:
-  - Session 3.  
     - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
-      - [Meet recording]()
+     
     - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
-      - [Meet recording]()
+    
                 
 - Home activities:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording]()
@@ -58,7 +55,6 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 4 - Octubre 25 - Octubre 29
 
 - Lecture:   
-  - Session 4.  [Meet recording]()
     - [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
     - [Synthetic Aperture Radar (SAR) & Google Earth Engine](https://drive.google.com/file/d/1JJuV3OknVqoaMBWz2i2JXP7FxpOQpdl5/view?usp=sharing)
     
@@ -79,7 +75,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 ## Semana 5 - Noviembre 1 - Noviembre 5
 
-- Lecture:  [Meet recording]() 
+- Lecture:  
   - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
   - [Current practices in environmental monitoring](https://drive.google.com/file/d/1xHPQU17aTjl2SapRlMCxKHLVLnEK3xo_/view?usp=sharing)
   - [Mapping land cover with OS software and UHR imagery acquired with UAV](https://drive.google.com/file/d/1IsD8jPb3rbjXEvwE_BSe8mHjAxOW1Vsh/view?usp=sharing)
@@ -117,8 +113,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 
 - Lecture:
   - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
-    - [Meet recording](https://drive.google.com/file/d/1gip8HfQFNDR5s1-1vRmosARw4j-63Bdf/view?usp=sharing)
-
+    
 - Practical:
   - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
   
@@ -137,7 +132,6 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - Students present to the class  their first report on 24 November: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 - Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
-     - [Meet recording](https://drive.google.com/file/d/1GG5veVQgEWhvGeZOwNXtXoeAChK3cqcL/view?usp=sharing)
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing) 
      - References:
        - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
@@ -157,19 +151,14 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 ## Semana 9 - Noviembre 29 - Diciembre 3
 
 - Feedback on Report No. 1
-  - [Grades](https://drive.google.com/file/d/1DFJyJWxTKYmlxxT1shqqHskCoi5x5u_J/view?usp=sharing)
-  - Example of a good-quality article
-
+- 
 - Lecture:   Deep Learning for multispectral images
-
-- [Meet recording]()
 
 - Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
 ## Semana 10 - Diciembre 6 - Diciembre 10
 
 - Topics:   
-  - [Meet recording]()
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
   - [Convolutional Neural Networks Explained](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
   - Deep Learning for Water Resurces
@@ -185,8 +174,6 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
   - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
   - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
-
-- [Meet recording](https://drive.google.com/file/d/1DDgRN7Ouv4qswS9ZTibjCaXzc1UILBuT/view?usp=sharing)
 
 - Practical:
   - Students work on their second report
@@ -209,8 +196,6 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 13 - Enero 17 - Enero 21
 
 - Tópicos:    
-  - [Meet recording](https://drive.google.com/file/d/1-PPSOVXiuZG8b2MOyDkD-_dnscdK00d8/view?usp=sharing) 
-  - Q&A on Technical Report No. 2
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
 
 - Readings:
@@ -222,8 +207,6 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 ## Semana 14 - Enero 24 -  Enero 28
 
 - Tópicos: 
-  - [Meet recording]()
-  - Q&A on Technical Report No. 2
   - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
   - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
   - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
