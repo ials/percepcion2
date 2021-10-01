@@ -219,7 +219,7 @@ links to socio-economic trends](https://journals.plos.org/plosone/article/file?i
 
 ## Semana 15 - Enero 31 - Febrero 4
 
-**Second Exam on 3 February at 2:00 pm (25%)**
+**Second Exam on 2 February at 2:00 pm (25%)**
 
 - Tópicos: 
   - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
