@@ -9,6 +9,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lectures:
   - [Course Intro - Only HTML Slides](https://ials.github.io/percepcion2/pra_S0.html)   
+    - [Meet recording on 06.10.2021](https://drive.google.com/file/d/19Oj2V-q0URbFunXNaB5Ikf4woH4Ib9e8/view?usp=sharing)
   - [Conceptual perspective of remote sensing](https://ials.github.io/percepcion2/pra_S1.html)
 
 - Practical:
