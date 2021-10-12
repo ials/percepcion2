@@ -27,15 +27,18 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 2 - Octubre 11 - Octubre 15
 
 - Lecture:
-    -  [Radiometric correction](https://docs.google.com/presentation/d/1Y0YiaafZKNDDI60ZFx0Vjk7ZeUr6t1cd/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
-    -  Demonstration of SIAC on GEE 
+    -  [Radiometric correction](https://docs.google.com/presentation/d/1mW-c6rkHmy8QzS4esw9sUnSP9g8A1eK-/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
+    -  [Sentinel 2 Processor - Sen2Cor](https://elib.dlr.de/107388/1/Pflug-Sen2Cor.pdf)
+    -  [Sensor Independent Atmospheric Correction (SIAC)](https://eartharxiv.org/repository/view/1034/) 
   
  - Home activities:
+   - [Try the Sen2Cor functionalities](https://step.esa.int/main/snap-supported-plugins/sen2cor/)
    - [Try the SIAC either on GEE or in Python](https://github.com/MarcYin)
 
  - Readings:
    - [A sensor invariant atmospheric correction: Sentinel-2 & Landsat 8](https://drive.google.com/file/d/1eeSAXy-6avxiuwtZfTnCs3yWEV3pcM1U/view?usp=sharing)
    - [Harmonization of Sentinel 2 & Landsat 8 for crop monitoring](https://drive.google.com/file/d/1x4HaeParvMWcmxOiJ5asjC3PAyfCVAXI/view?usp=sharing)
+  
  
 
 ## Semana 3 - Octubre 18 - Octubre 22
