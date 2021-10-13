@@ -28,7 +28,9 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lecture:
     -  [Radiometric correction](https://docs.google.com/presentation/d/1mW-c6rkHmy8QzS4esw9sUnSP9g8A1eK-/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
-    -  [Sentinel 2 Processor - Sen2Cor](https://elib.dlr.de/107388/1/Pflug-Sen2Cor.pdf)
+    -  [Sentinel 2 Processor - Sen2Cor]
+        - [1](https://elib.dlr.de/107388/1/Pflug-Sen2Cor.pdf)
+        - [2](https://ceos.org/document_management/Virtual_Constellations/LSI/Meetings/LSI-VC-8/Presentations/3.1_ESA_S-2_Surface_Reflectance.pptx)
     -  [Sensor Independent Atmospheric Correction (SIAC)](https://eartharxiv.org/repository/view/1034/) 
   
  - Home activities:
