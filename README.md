@@ -28,6 +28,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lecture:
     -  [Radiometric correction](https://docs.google.com/presentation/d/1mW-c6rkHmy8QzS4esw9sUnSP9g8A1eK-/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
+       - [Meet recording on 13.10.2021](https://drive.google.com/file/d/119KNJaotqG1kfeRTCUVxHplLGvDDi0aG/view?usp=sharing)
     -  Sentinel-2  L2A Processor Sen2Cor:
         - [ATCOR theoretical background](https://www.rese-apps.com/pdf/atcor_ATBD.pdf)
         - [Sentinel 2 - Reflectance products](https://ceos.org/document_management/Virtual_Constellations/LSI/Meetings/LSI-VC-8/Presentations/3.1_ESA_S-2_Surface_Reflectance.pptx)
