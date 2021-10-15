@@ -53,7 +53,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
     
                 
 - Home activities:
-  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording]()
+  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording](https://drive.google.com/file/d/1JeHg0uvKgUMy0Vo8T8qcJrzal9G5TK6F/view)
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
