@@ -42,15 +42,13 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
    - [A sensor invariant atmospheric correction: Sentinel-2 & Landsat 8](https://drive.google.com/file/d/1eeSAXy-6avxiuwtZfTnCs3yWEV3pcM1U/view?usp=sharing)
    - [Harmonization of Sentinel 2 & Landsat 8 for crop monitoring](https://drive.google.com/file/d/1x4HaeParvMWcmxOiJ5asjC3PAyfCVAXI/view?usp=sharing)
   
- 
-
 ## Semana 3 - Octubre 18 - Octubre 22
 
 - Lecture:
-    - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing)(Heather McNairn, 2021)
-    - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
-     
-    - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
+  - Meet recording: [1](https://drive.google.com/file/d/1RDsEmq6yW7A3VmZYTU4fmzGY70fgRycg/view?usp=sharing) -  [2](https://drive.google.com/file/d/19kcfWMDsiegzsVE_Ueds9shiqwCo99gs/view?usp=sharing)
+      - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing)(Heather McNairn, 2021)
+      - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
+      - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
     
                 
 - Home activities:
