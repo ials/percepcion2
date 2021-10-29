@@ -64,6 +64,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 4 - Octubre 25 - Octubre 29
 
 - Lecture:   
+    - [Meet recording](https://drive.google.com/file/d/1JF7XDrQLc7s6nMrTBl5c9i9hjy1w84ro/view?usp=sharing)
     - [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
     - [Synthetic Aperture Radar (SAR) & Google Earth Engine](https://drive.google.com/file/d/1JJuV3OknVqoaMBWz2i2JXP7FxpOQpdl5/view?usp=sharing)
     
