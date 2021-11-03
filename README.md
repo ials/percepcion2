@@ -85,14 +85,17 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 ## Semana 5 - Noviembre 1 - Noviembre 5
 
-- Lecture:  
+- Review of research tasks for Informe No. 1
+  - [Meet recording](https://drive.google.com/file/d/1gIPzKYCdFuNWRpoVSWVQKAUcpScYENdR/view?usp=sharing)
+
+- UAV image analysis:  
   - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
   - [Current practices in environmental monitoring](https://drive.google.com/file/d/1xHPQU17aTjl2SapRlMCxKHLVLnEK3xo_/view?usp=sharing)
   - [Mapping land cover with OS software and UHR imagery acquired with UAV](https://drive.google.com/file/d/1IsD8jPb3rbjXEvwE_BSe8mHjAxOW1Vsh/view?usp=sharing)
 
 - Home activities:
   - SAR image analysis
-    - Students keep writing their first report "SAR image analysis"
+    - Students keep doing SAR image processing tasks  for their first report 
 
 - Optional:
   - [OpenDroneMap](https://www.opendronemap.org/)
