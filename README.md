@@ -108,10 +108,9 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 6 - Noviembre 8 - Noviembre 12
 
 - Lecture:   
-  - Session 6.  
+  - Session 6.  [Meet recording](https://drive.google.com/file/d/1s-e218TqyAg_L9z_Am7sbSg_dT5O0ZpO/view?usp=sharing)
     - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
-    - [A Walk-Through on Machine Learning
-Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
+    - [A Walk-Through on Machine Learning Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
 
 - Practical:
    - ML using geemap - Jupyter notebook
@@ -124,12 +123,10 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
   - Students revise  their first report : "SAR image analysis"
 
 ## Semana 7 - Noviembre 15 - Noviembre 19
-
-- **First Exam on 17 November at 2:00 pm (25%)**  
-
+ 
 - Lecture:
   - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
-    
+     
 - Practical:
   - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
   
@@ -142,10 +139,7 @@ Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files
 
 ## Semana 8 - Noviembre 22 - Noviembre 26
  
-- **First report submission deadline: 23 November at 11:59 pm**
-
-- Task:  
-  - Students present to the class  their first report on 24 November: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+- **First Exam on 24 November at 2:00 pm (25%)** 
 
 - Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing) 
@@ -166,13 +160,17 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 9 - Noviembre 29 - Diciembre 3
 
-- Feedback on Report No. 1
-- 
+- **First report submission deadline: 30 November at 11:59 pm**
+- Task:  
+  - Students present to the class  their first report on 1 December: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+
 - Lecture:   Deep Learning for multispectral images
 
 - Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
 ## Semana 10 - Diciembre 6 - Diciembre 10
+
+- Feedback on Report No. 1
 
 - Topics:   
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
