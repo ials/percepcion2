@@ -125,10 +125,12 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 ## Semana 7 - Noviembre 15 - Noviembre 19
  
 - Lecture:
-  - Session 7. [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
+  - Session 7. [Meet recording](https://drive.google.com/file/d/1aHRrMWkkhQyk8eIAV6o0YkzUthWSRYyL/view?usp=sharing)
+    - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
      
 - Practical:
   - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
+    - [Meet recording](https://drive.google.com/file/d/1S5gir77TxTnrlsMDf_SBpxOt-Q7egRpq/view?usp=sharing)
   
  - Home activities:
    - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
