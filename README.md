@@ -137,38 +137,41 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
    - Try image classification using *fastai*
 
 - Task:  
-  - Students proofread their first report: "SAR image analysis" and submit it before the deadline
+  - Students complete their first report on SAR image analysis 
 
 ## Semana 8 - Noviembre 22 - Noviembre 26
  
-- **First Exam on 24 November at 2:00 pm (25%)** 
+- **First Exam  on 24 November at 2:00 pm (25%)** 
 
-- Lecture:   Técnicas y métodos avanzados de procesamiento de imágenes (Deep Learning)
+- Tasks:    
+   - Students proofread their first report on SAR image analysis and submit them before the deadline
+   - Students prepare a three minute presentation  of  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+
+
+## Semana 9 - Noviembre 29 - Diciembre 3
+
+- **First report submission deadline: 30 November at 11:59 pm**
+
+- Students present to the class  their first report on 1 December: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+
+- Lecture:   Deep Learning for multispectral images
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing) 
      - References:
        - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
        - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
 - Practical: *Semantic segmentation of aerial images with deep networks*
-  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe)     
+  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe)   
+
+- Homework:
+  - **Students start working on their second report: "Image analysis using DL techniques (or ML techniques if you want it)"** 
   
 - Reading:
   - [Beyond RGB: Very High Resolution Urban Remote
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
-- Homework:
-  - **Students start working on their second report: "Image analysis using DL techniques (or ML techniques if you want it)"**
-
-
-## Semana 9 - Noviembre 29 - Diciembre 3
-
-- **First report submission deadline: 30 November at 11:59 pm**
-- Task:  
-  - Students present to the class  their first report on 1 December: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
-
-- Lecture:   Deep Learning for multispectral images
-
-- Practical: [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
+- Suugested practical: 
+  - [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
 ## Semana 10 - Diciembre 6 - Diciembre 10
 
