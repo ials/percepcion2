@@ -155,7 +155,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 - Students present to the class  their first report on 1 December: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
 - Lecture:   Deep Learning for multispectral images
-     - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1UXbGO7KfV5dHXD-M6dei2i8ZsJ1tcxl4/view?usp=sharing) 
+     - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
      - References:
        - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
        - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
