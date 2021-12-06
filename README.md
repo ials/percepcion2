@@ -150,7 +150,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 ## Semana 9 - Noviembre 29 - Diciembre 3
 
-- **First report submission deadline: 30 November at 11:59 pm**
+- **First report submission deadline: 05 December at 11:59 pm**
 
 - Students present to the class  their first report on 1 December: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
@@ -175,7 +175,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
  
 ## Semana 10 - Diciembre 6 - Diciembre 10
 
-- Feedback on Report No. 1
+- **Public holiday on 08.12.2021**
 
 - Topics:   
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
@@ -185,7 +185,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
     - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
 
 - Practical:    
-  - Students adapt the Le Saux's notebook (or any other framework/toolbox ) for their second report
+  - Students replicate and/or adapt the Le Saux's notebook (or any other DL framework/toolbox) for their second report
 
 ## Semana 11 - Diciembre 13 - Diciembre 17
 
