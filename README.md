@@ -156,6 +156,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
 
 - Lecture:   Deep Learning for multispectral images
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
+       - [Meet recording](https://drive.google.com/file/d/1hpLXJT452C5Q4_gAA8v74DVr5tp3EayU/view?usp=sharing)
      - References:
        - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
        - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
