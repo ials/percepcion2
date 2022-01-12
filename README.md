@@ -204,14 +204,19 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   
 ## Semana 12 - Enero 10 - Enero 14
 
-- Tópicos:  GEE Applications Examples:
-  - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
-  - [Night-time lights: A global, long term look at
-links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
-  - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
+-  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
+   - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
+   
+- [Towards Geographically-Aware Machine Learning](https://youtu.be/wxHx3oBMQwg)   
+   
+- Optional:  
+  - GEE Applications Examples:
+    - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
+    - [Night-time lights: A global, long term look at links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
+    - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
 
 - Task:  
-  - Students write their second report: "Image analysis using ML & DL"
+  - Students keep writing their second report: "Image analysis using ML or DL"
 
 ## Semana 13 - Enero 17 - Enero 21
 
