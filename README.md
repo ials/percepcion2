@@ -220,7 +220,10 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 13 - Enero 17 - Enero 21
 
-- Tópicos:    
+- Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
+  - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
+
+- Other topics:    
   - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
 
 - Readings:
