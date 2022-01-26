@@ -206,6 +206,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
+   - [Meet recording](https://drive.google.com/file/d/1JC3tU95b9yEl0aM6H1_uGcM8Q6dlotkQ/view?usp=sharing)
    
 - [Towards Geographically-Aware Machine Learning](https://youtu.be/wxHx3oBMQwg)   
    
@@ -221,6 +222,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 ## Semana 13 - Enero 17 - Enero 21
 
 - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
+  - 
   - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
 
 - Other topics:    
