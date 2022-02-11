@@ -265,10 +265,12 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 -  Students present to the class  their second report on 9 February: "ML or DL-based image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
 
--  **Publicación notas on 09.02.2022**
+-  **Publicación notas parciales on 09.02.2022**
    - [Examen 1](https://drive.google.com/file/d/162nvBIM89I0IrXQHQBggM49mwHbvJNaS/view?usp=sharing)
    - [Examen 2](https://drive.google.com/file/d/132sNLFcrOLoLDNZqdN_ZgtSaK-g4iEby/view?usp=sharing)
    - [Informe 1](https://drive.google.com/file/d/194wORvVFHomFoP9VYioOMKAMX02kcSO9/view?usp=sharing)
+-  **Publicación notas consolidadas on 11.02.2022**
    - [Informe 2 - 11.02.2022](https://drive.google.com/file/d/12LtayfRmGyt0mz7ttL4DvLnLqoiEz7AV/view?usp=sharing)
    - [Notas finales - 11.02.2022](https://drive.google.com/file/d/1rgMD41jlL3xfGgm7OoeFpHx1byS8k54O/view?usp=sharing)
 
+   
