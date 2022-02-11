@@ -269,4 +269,6 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
    - [Examen 1](https://drive.google.com/file/d/162nvBIM89I0IrXQHQBggM49mwHbvJNaS/view?usp=sharing)
    - [Examen 2](https://drive.google.com/file/d/132sNLFcrOLoLDNZqdN_ZgtSaK-g4iEby/view?usp=sharing)
    - [Informe 1](https://drive.google.com/file/d/194wORvVFHomFoP9VYioOMKAMX02kcSO9/view?usp=sharing)
+   - [Informe 2 - 11.02.2022](https://drive.google.com/file/d/12LtayfRmGyt0mz7ttL4DvLnLqoiEz7AV/view?usp=sharing)
+   - [Notas finales - 11.02.2022](https://drive.google.com/file/d/1rgMD41jlL3xfGgm7OoeFpHx1byS8k54O/view?usp=sharing)
 
