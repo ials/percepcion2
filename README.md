@@ -22,14 +22,17 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
    - [Impact of Soil and Crop Characteristics on SAR Response](https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/view?usp=sharing)
    - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
 
-- Home activities:
+- Practical:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):  
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
 -  Students  define data & application for their first report: "SAR image analysis"
-    
+
+- Readings:
+  - [Urban objects detection from C‑band SAR satellite images](https://www.nature.com/articles/s41598-021-85121-9.pdf?origin=ppub)
+
 ## Semana 3 -  22 a 26 de agosto
 
 - Lecture:   
