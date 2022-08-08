@@ -19,6 +19,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 2 – 15 a 19 de agosto
 
 - Lecture:
+   - [Impact of Soil and Crop Characteristics on SAR Response](https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/view?usp=sharing)
    - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
 
 - Home activities:
