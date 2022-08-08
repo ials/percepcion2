@@ -1,67 +1,36 @@
 ## Percepción Remota Avanzada  
-### UNAL - 2021 - Segundo Período Académico 
+### UNAL - 2022 - Segundo Período Académico 
 
-Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrero de 2022 (miércoles entre 2:00 pm y 6:00 pm)
+Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de noviembre de 2022 (miércoles entre 2:00 pm y 6:00 pm)
 
-*Mientras no se modifique la situación de pandemia, las clases se desarrollarán de manera virtual*
+## PARTE 1:   RADAR DE APERTURA SINTETICA (SAR)
 
-## Semana 1  Octubre 4 - Octubre 8
+## Semana 1  -  8 a 12 de agosto 
 
-- Lectures:
-  - [Course Intro - Only HTML Slides](https://ials.github.io/percepcion2/pra_S0.html)   
-    - [Meet recording on 06.10.2021](https://drive.google.com/file/d/19Oj2V-q0URbFunXNaB5Ikf4woH4Ib9e8/view?usp=sharing)
-  - [Conceptual perspective of remote sensing](https://ials.github.io/percepcion2/pra_S1.html)
+-	Lecture:
+-	[Introduction to SAR]( https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
 
-- Practical:
-  - [Remote sensing with GEE](https://calekochenour.github.io/remote-sensing-textbook/introduction.html)
-  
-- Home activities:
-  - Develop  practical activities using *conda*, *jupyter notebook*, and *github*  
-    - Get links to tutorials [here](https://ials.github.io/percepcion2/pra_S0.html#31)
-  
 - Readings:
-  - [A Systematic View of Remote Sensing](https://drive.google.com/file/d/0BxgbJ4YsBJkfNU5iYjRWVk5Fc00/view) (Liang, Li & Wang, 2012)
+    - [A tutorial on Synthetic Aperture Radar](https://drive.google.com/file/d/1xXD_oWaecPFHOAe89RU54cKnnWmZ3Cuu/view?usp=sharing) (Moreira et al., 2013) 
 
-  - [Validation plays the role of a 'bridge' in connecting remote sensing research and applications](https://drive.google.com/file/d/14M5YMxxkoE_INkjnzHJkm1IBYV5wr9dQ/view) (Wang, Deng & Fan, 2018) 
-    
-## Semana 2 - Octubre 11 - Octubre 15
+## Semana 2 – 15 a 19 de agosto
 
 - Lecture:
-    -  [Radiometric correction](https://docs.google.com/presentation/d/1mW-c6rkHmy8QzS4esw9sUnSP9g8A1eK-/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)  
-       - [Meet recording on 13.10.2021](https://drive.google.com/file/d/119KNJaotqG1kfeRTCUVxHplLGvDDi0aG/view?usp=sharing)
-    -  Sentinel-2  L2A Processor Sen2Cor:
-        - [ATCOR theoretical background](https://www.rese-apps.com/pdf/atcor_ATBD.pdf)
-        - [Sentinel 2 - Reflectance products](https://ceos.org/document_management/Virtual_Constellations/LSI/Meetings/LSI-VC-8/Presentations/3.1_ESA_S-2_Surface_Reflectance.pptx)
-    -  [Sensor Independent Atmospheric Correction (SIAC)](https://eartharxiv.org/repository/view/1034/) 
-  
- - Home activities:
-   - [Try the Sen2Cor functionalities](https://step.esa.int/main/snap-supported-plugins/sen2cor/)
-   - [Try the SIAC either on GEE or in Python](https://github.com/MarcYin)
-
- - Readings:
-   - [A sensor invariant atmospheric correction: Sentinel-2 & Landsat 8](https://drive.google.com/file/d/1eeSAXy-6avxiuwtZfTnCs3yWEV3pcM1U/view?usp=sharing)
-   - [Harmonization of Sentinel 2 & Landsat 8 for crop monitoring](https://drive.google.com/file/d/1x4HaeParvMWcmxOiJ5asjC3PAyfCVAXI/view?usp=sharing)
-  
-## Semana 3 - Octubre 18 - Octubre 22
-
-- Lecture:
-  - Meet recording: [1](https://drive.google.com/file/d/1RDsEmq6yW7A3VmZYTU4fmzGY70fgRycg/view?usp=sharing) -  [2](https://drive.google.com/file/d/19kcfWMDsiegzsVE_Ueds9shiqwCo99gs/view?usp=sharing)
       - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing)(Heather McNairn, 2021)
       - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
       - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
-    
-                
+
 - Home activities:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording](https://drive.google.com/file/d/1JeHg0uvKgUMy0Vo8T8qcJrzal9G5TK6F/view)
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
-    -  Students  define data & application for their first report: "SAR image analysis"
+
+-  Students  define data & application for their first report: "SAR image analysis"
     
-  - Readings:
-    - [A tutorial on Synthetic Aperture Radar](https://drive.google.com/file/d/1xXD_oWaecPFHOAe89RU54cKnnWmZ3Cuu/view?usp=sharing) (Moreira et al., 2013) 
-      
-## Semana 4 - Octubre 25 - Octubre 29
+
+
+## Semana 3 -  22 a 26 de agosto
 
 - Lecture:   
     - [Meet recording](https://drive.google.com/file/d/1JF7XDrQLc7s6nMrTBl5c9i9hjy1w84ro/view?usp=sharing)
@@ -70,42 +39,53 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
     
 - Home activities:
   - [Working with SAR data in Google Earth Engine](https://www.gears-lab.com/intro_rs_lab8/)
-  - [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
-  - Students  start writing  their first report: "SAR image analysis"
-  
-  - Readings:
+  - Students start writing  their first report 
+
+- Readings:
   - [Principles, Data Access, and Basic Processing Techniques](https://drive.google.com/file/d/1viucihQB3FWyI5JgODLnrL-LqHgXZWOL/view?usp=sharing) (Meyer, 2019).  
+
+## Semana 4 -  29 de agosto a 2 de septiembre  
+
+- [A Python package for interactive mapping with GEE](https://github.com/giswqs/geemap)
+  - Students  start writing  their first report: "SAR image analysis"
   
 - Additional resources:
   - [OpenSAR Toolkit](https://github.com/ESA-PhiLab/OpenSarToolkit)
 
 - Additional references:
   - [A Layman’s Interpretation Guide to L-band and C-band Synthetic Aperture Radar data](https://drive.google.com/file/d/1yfFCkaMeduqrCwSTxMogB5tXfhAaT-gF/view?usp=sharing) (CEOS, 2018)
-
-
-## Semana 5 - Noviembre 1 - Noviembre 5
-
-- Review of research tasks for Informe No. 1
-  - [Meet recording](https://drive.google.com/file/d/1gIPzKYCdFuNWRpoVSWVQKAUcpScYENdR/view?usp=sharing)
-  - Students register data about your first report
+                
+## Semana 5  -  5 a 9 de septiembre 
 
 -  Analysis Ready Sentinel 1 Data in GEE
   - [Meet recording](https://drive.google.com/file/d/1IVN85yc6KEzJaBPWBxNzNPXa5uLC3Lew/view?usp=sharing)
 
 - Home activities:
   - SAR image analysis
-    - Students keep doing SAR image processing tasks  for their first report 
- 
-- Additional resources:
-  - UAV image analysis:  
-    - [UAV image processing pipeline](https://drive.google.com/file/d/15frEajlCsKKPeEJKMj90RkNb4CrBd5Lh/view?usp=sharing)
-    - [Current practices in environmental monitoring](https://drive.google.com/file/d/1xHPQU17aTjl2SapRlMCxKHLVLnEK3xo_/view?usp=sharing)
-    - [Mapping land cover with OS software and UHR imagery acquired with UAV](https://drive.google.com/file/d/1IsD8jPb3rbjXEvwE_BSe8mHjAxOW1Vsh/view?usp=sharing)
-    - [OpenDroneMap](https://www.opendronemap.org/)     
-    - [Nenetic](https://github.com/persts/Nenetic)
+    - Students conduct SAR image processing tasks  for their first report 
 
 
-## Semana 6 - Noviembre 8 - Noviembre 12
+## Semana 6 – 12 a 16 de septiembre
+
+- Home activities:
+  - SAR image analysis
+    - Students conduct SAR image analysis tasks  for their first report 
+
+## Semana 7 -  19 a 23 de septiembre
+
+**Examen No. 1 – 21 de septiembre** 
+
+- Home activities:
+  - SAR image analysis
+    - Students revise their first report 
+
+## Semana 8 -  26 a 30 de septiembre   
+
+**Entrega Informe No. 1 – 28 de septiembre** 
+
+## PARTE 2:   DEEP LEARNING FOR IMAGE ANALYSIS
+
+## Semana 9 - 3 a 7 de octubre
 
 - Lecture:   
   - Session 6.  [Meet recording](https://drive.google.com/file/d/1s-e218TqyAg_L9z_Am7sbSg_dT5O0ZpO/view?usp=sharing)
@@ -116,13 +96,7 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
    - ML using geemap - Jupyter notebook
 
 - Home activities:
-  - SAR image analysis
-  - Classification or regression using ML
-   
-- Task:  
-  - Students revise  their first report : "SAR image analysis"
-
-## Semana 7 - Noviembre 15 - Noviembre 19
+## Semana 10 – 10 a 14 de octubre
  
 - Lecture:
   - Session 7. [Meet recording](https://drive.google.com/file/d/1aHRrMWkkhQyk8eIAV6o0YkzUthWSRYyL/view?usp=sharing)
@@ -137,22 +111,9 @@ Este es un curso que se dictará  entre el 6 de octubre de 2021 y el 2 de febrer
    - Try image classification using *fastai*
 
 - Task:  
-  - Students complete their first report on SAR image analysis 
+  - Students start writing  their second report on deep learning 
 
-## Semana 8 - Noviembre 22 - Noviembre 26
- 
-- **First Exam  on 24 November at 2:00 pm (25%)** 
-
-- Tasks:    
-   - Students proofread their first report on SAR image analysis and submit them before the deadline
-   - Students prepare a three minute presentation  of  their first report: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
-
-
-## Semana 9 - Noviembre 29 - Diciembre 3
-
-- **First report submission deadline: 05 December at 11:59 pm**
-
-- Students present to the class  their first report on 1 December: "SAR image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+## Semana 11 – 17 a  21 de octubre 
 
 - Lecture:   Deep Learning for multispectral images
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
@@ -174,9 +135,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Suugested practical: 
   - [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
  
-## Semana 10 - Diciembre 6 - Diciembre 10
-
-- **Public holiday on 08.12.2021**
+## Semana 12 – 24 a 28 de octubre
 
 - Topics:   
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
@@ -188,7 +147,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Practical:    
   - Students replicate and/or adapt the Le Saux's notebook (or any other DL framework/toolbox) for their second report
 
-## Semana 11 - Diciembre 13 - Diciembre 17
+## Semana 13 – 31 de octubre a  4 de noviembre
 
 - Topics:   Vegetation Remote Sensing
   - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
@@ -201,76 +160,48 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   
 - Additional resources:
   - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
-  
-## Semana 12 - Enero 10 - Enero 14
+
+## Semana 14 – 7 a 11 de noviembre 
+
 
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
    - [Meet recording](https://drive.google.com/file/d/1DUUiCkNxtvGHBWN2BbsnVbFR3ekAt8LY/view?usp=sharing)
    
 - [Towards Geographically-Aware Machine Learning](https://youtu.be/wxHx3oBMQwg)   
-   
-- Optional:  
-  - GEE Applications Examples:
-    - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
-    - [Night-time lights: A global, long term look at links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
-    - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
 
+- Readings:
+  - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
 - Task:  
-  - Students keep writing their second report: "Image analysis using ML or DL"
-
-## Semana 13 - Enero 17 - Enero 21
+  - Students keep writing their second report: "Image analysis using DL"
+     
+## Semana 15 – 14 a 18 de noviembre
 
 - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
   - [Meet recording](https://drive.google.com/file/d/1JC3tU95b9yEl0aM6H1_uGcM8Q6dlotkQ/view?usp=sharing)
   - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
 
-- Other topics:    
-  - [Image classification:  Theoretical background (Caetano, nd)](https://drive.google.com/file/d/1Q-tDyqDxn9Ps0ZbDyVuP_YsLNTzx-CkM/view?usp=sharing) 
-
-- Readings:
-  - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
-  
-- Independent task:  
-  - Students continue writing their second report: "Image analysis using ML & DL"
-
-## Semana 14 - Enero 24 -  Enero 28
-
-- Tópicos: 
-  - [Segmentation for OBIA: A review of algorithms and challenges (Hossain, 2019)](https://drive.google.com/file/d/1TsG2mxaZVTNt8v9V7mE46x4Cn17-44yb/view?usp=sharing)
-  - [Spatial image segmentation in GEE](https://drive.google.com/file/d/1dJxWy7EBR3g6ejifzh4t-6Cl-R_dgfU4/view)
-  - [OBIA on GEE](https://medium.com/@joaootavionf007/object-based-image-analysis-on-google-earth-engine-1b80e9cb7312)
-
-- Independent task:  
-  - Students revise  their second report: "Image analysis using ML & DL"
-
-## Semana 15 - Enero 31 - Febrero 4
-
-**Second Exam on 2 February at 2:00 pm (25%)**
-
-- Tópicos: 
-  - [Forest disturbance using the Landtrendr algorithm](https://emapr.github.io/LT-GEE/)
-  - Thematic accuracy assessment
+  - GEE Applications Examples:
+    - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
+    - [Night-time lights: A global, long term look at links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
+    - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
  -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
 
-- Task:  
-  - Students proofread  their second report: "Image analysis using ML & DL" and submit it before the deadline
 
-## Semana 16 - Febrero 7 - Febrero 11
 
-- **Second report submission deadline: 8 February at 11:59 pm**
+## Semana 16 – 21 a  25 de noviembre
 
--  Students present to the class  their second report on 9 February: "ML or DL-based image analysis"  ([three minute presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt))
+**Examen No. 2 – 23 de noviembre** 
 
--  **Publicación notas parciales on 09.02.2022**
-   - [Examen 1](https://drive.google.com/file/d/162nvBIM89I0IrXQHQBggM49mwHbvJNaS/view?usp=sharing)
-   - [Examen 2](https://drive.google.com/file/d/132sNLFcrOLoLDNZqdN_ZgtSaK-g4iEby/view?usp=sharing)
-   - [Informe 1](https://drive.google.com/file/d/194wORvVFHomFoP9VYioOMKAMX02kcSO9/view?usp=sharing)
--  **Publicación notas consolidadas on 11.02.2022**
-   - [Informe 2 - 11.02.2022](https://drive.google.com/file/d/12LtayfRmGyt0mz7ttL4DvLnLqoiEz7AV/view?usp=sharing)
-   - [Notas finales - 11.02.2022](https://drive.google.com/file/d/1rgMD41jlL3xfGgm7OoeFpHx1byS8k54O/view?usp=sharing)
+## Semana 17 -  28 de noviembre a 2 de diciembre   
 
-   
+**Entrega Informe  No. 2 – 30 de noviembre** 
+
+
+  
+
+
+
