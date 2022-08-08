@@ -8,32 +8,29 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 1  -  8 a 12 de agosto 
 
 -	Lecture:
--	[Introduction to SAR]( https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
+   - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing)(Heather McNairn, 2021)
+   - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
 
 - Readings:
+    - [Introduction to SAR]( https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
     - [A tutorial on Synthetic Aperture Radar](https://drive.google.com/file/d/1xXD_oWaecPFHOAe89RU54cKnnWmZ3Cuu/view?usp=sharing) (Moreira et al., 2013) 
 
 ## Semana 2 – 15 a 19 de agosto
 
 - Lecture:
-      - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing)(Heather McNairn, 2021)
-      - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
-      - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
+   - [Introduction to ESA Toolboxes](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view?usp=sharing) (Fitrzyk, 2019)
 
 - Home activities:
-  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  [Meet recording](https://drive.google.com/file/d/1JeHg0uvKgUMy0Vo8T8qcJrzal9G5TK6F/view)
+  - Crop monitoring with  Sentinel-1 data (SNAP Practical):  
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
 -  Students  define data & application for their first report: "SAR image analysis"
     
-
-
 ## Semana 3 -  22 a 26 de agosto
 
 - Lecture:   
-    - [Meet recording](https://drive.google.com/file/d/1JF7XDrQLc7s6nMrTBl5c9i9hjy1w84ro/view?usp=sharing)
     - [SAR Physics](https://drive.google.com/file/d/1-FKzCS61mdKWn8tW6VNoA2lvR0h29KuB/view?usp=sharing) (CNES, 2018)
     - [Synthetic Aperture Radar (SAR) & Google Earth Engine](https://drive.google.com/file/d/1JJuV3OknVqoaMBWz2i2JXP7FxpOQpdl5/view?usp=sharing)
     
@@ -57,8 +54,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
                 
 ## Semana 5  -  5 a 9 de septiembre 
 
--  Analysis Ready Sentinel 1 Data in GEE
-  - [Meet recording](https://drive.google.com/file/d/1IVN85yc6KEzJaBPWBxNzNPXa5uLC3Lew/view?usp=sharing)
+-  [Analysis Ready Sentinel 1 Data in GEE](https://www.mdpi.com/2072-4292/13/10/1954/htm)
 
 - Home activities:
   - SAR image analysis
@@ -88,7 +84,6 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 9 - 3 a 7 de octubre
 
 - Lecture:   
-  - Session 6.  [Meet recording](https://drive.google.com/file/d/1s-e218TqyAg_L9z_Am7sbSg_dT5O0ZpO/view?usp=sharing)
     - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
     - [A Walk-Through on Machine Learning Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
 
@@ -99,12 +94,10 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 10 – 10 a 14 de octubre
  
 - Lecture:
-  - Session 7. [Meet recording](https://drive.google.com/file/d/1aHRrMWkkhQyk8eIAV6o0YkzUthWSRYyL/view?usp=sharing)
     - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
      
 - Practical:
   - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
-    - [Meet recording](https://drive.google.com/file/d/1S5gir77TxTnrlsMDf_SBpxOt-Q7egRpq/view?usp=sharing)
   
  - Home activities:
    - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
@@ -117,7 +110,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 - Lecture:   Deep Learning for multispectral images
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
-       - [Meet recording](https://drive.google.com/file/d/1hpLXJT452C5Q4_gAA8v74DVr5tp3EayU/view?usp=sharing)
+   
      - References:
        - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
        - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
@@ -166,7 +159,6 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
-   - [Meet recording](https://drive.google.com/file/d/1DUUiCkNxtvGHBWN2BbsnVbFR3ekAt8LY/view?usp=sharing)
    
 - [Towards Geographically-Aware Machine Learning](https://youtu.be/wxHx3oBMQwg)   
 
@@ -178,7 +170,6 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 ## Semana 15 – 14 a 18 de noviembre
 
 - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
-  - [Meet recording](https://drive.google.com/file/d/1JC3tU95b9yEl0aM6H1_uGcM8Q6dlotkQ/view?usp=sharing)
   - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
 
   - GEE Applications Examples:
