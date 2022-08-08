@@ -78,22 +78,16 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 ## Semana 8 -  26 a 30 de septiembre   
 
+- Lecture:   
+    - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
+    - [A Walk-Through on Machine Learning Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
+
 **Entrega Informe No. 1 – 28 de septiembre** 
 
 ## PARTE 2:   DEEP LEARNING FOR IMAGE ANALYSIS
 
 ## Semana 9 - 3 a 7 de octubre
 
-- Lecture:   
-    - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
-    - [A Walk-Through on Machine Learning Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
-
-- Practical:
-   - ML using geemap - Jupyter notebook
-
-- Home activities:
-## Semana 10 – 10 a 14 de octubre
- 
 - Lecture:
     - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
      
@@ -107,8 +101,9 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 - Task:  
   - Students start writing  their second report on deep learning 
 
-## Semana 11 – 17 a  21 de octubre 
 
+## Semana 10 – 10 a 14 de octubre
+ 
 - Lecture:   Deep Learning for multispectral images
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
    
@@ -126,10 +121,12 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
   - [Beyond RGB: Very High Resolution Urban Remote
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
-- Suugested practical: 
-  - [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
- 
-## Semana 12 – 24 a 28 de octubre
+
+- Practical:    
+  - Students  adapt the Le Saux's notebook  for their second report
+
+
+## Semana 11 – 17 a  21 de octubre 
 
 - Topics:   
   - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
@@ -138,10 +135,12 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
     - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
     - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
 
-- Practical:    
-  - Students replicate and/or adapt the Le Saux's notebook (or any other DL framework/toolbox) for their second report
+- Suggested practical: 
+  - [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
 
-## Semana 13 – 31 de octubre a  4 de noviembre
+
+## Semana 12 – 24 a 28 de octubre
+
 
 - Topics:   Vegetation Remote Sensing
   - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
@@ -155,8 +154,7 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Additional resources:
   - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
 
-## Semana 14 – 7 a 11 de noviembre 
-
+## Semana 13 – 31 de octubre a  4 de noviembre
 
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
@@ -167,11 +165,13 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
 - Task:  
   - Students keep writing their second report: "Image analysis using DL"
-     
-## Semana 15 – 14 a 18 de noviembre
+
+## Semana 14 – 7 a 11 de noviembre 
 
 - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
   - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
+
+## Semana 15 – 14 a 18 de noviembre
 
   - GEE Applications Examples:
     - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
@@ -181,7 +181,6 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
  -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
-
 
 
 ## Semana 16 – 21 a  25 de noviembre
