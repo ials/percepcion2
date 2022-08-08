@@ -9,7 +9,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 -	Lecture:
 
-   - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing)(Heather McNairn, 2021)
+   - [Repaso de Radar](https://drive.google.com/file/d/1Om3l2kB4pj0PiKv7c7UeoswtreeQEt5E/view?usp=sharing) (Heather McNairn, 2021)
    - [Introduction to SAR Data](https://drive.google.com/file/d/1XNBO90IRx4SDGirxRkCx3w4ntq4Tw2k2/view?usp=sharing) (Kristenson, 2020)
 
 - Readings:
