@@ -25,6 +25,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 - Practical:
   - Crop monitoring with  Sentinel-1 data (SNAP Practical):  
     -  [General Guide](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing)
+    -  [Video by Amalia Castro](https://www.youtube.com/watch?v=ZwuCE4D6w-M)
     -  [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
     -  [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
