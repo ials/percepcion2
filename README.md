@@ -71,6 +71,11 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 ## Semana 6 – 12 a 16 de septiembre
 
+- [What is Open Data Cube?](https://www.opendatacube.org/)
+  - [CEOS ODC - Lessons Learned](https://www.earthobservations.org/documents/me_201904_dpw/s01_03_GEOdatatech_ODC_Killough.pptx)
+
+- [How to use the ODC-Google Sandbox](https://www.openearthalliance.org/sandbox)
+
 - Home activities:
   - SAR image analysis
     - Students conduct SAR image analysis tasks  for their first report 
