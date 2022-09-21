@@ -98,7 +98,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 ## PARTE 2:   DEEP LEARNING FOR IMAGE ANALYSIS
 
-[]((https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf))
+[](https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
 
 ## Semana 9 - 3 a 7 de octubre
 
