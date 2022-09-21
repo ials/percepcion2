@@ -15,7 +15,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 - Readings:
     - [Introduction to SAR](https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)            
     - [A tutorial on Synthetic Aperture Radar](https://drive.google.com/file/d/1xXD_oWaecPFHOAe89RU54cKnnWmZ3Cuu/view?usp=sharing) (Moreira et al., 2013)
-    - [](https://drive.google.com/file/d/1xCX4Dh9OxMplH_cqy_FNBlZLz1ksVYiZ/view?usp=sharing)
+    [](https://drive.google.com/file/d/1xCX4Dh9OxMplH_cqy_FNBlZLz1ksVYiZ/view?usp=sharing)
 
 ## Semana 2 – 15 a 19 de agosto
 
