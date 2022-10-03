@@ -95,22 +95,22 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
     - [Machine Learning for Remote Sensing](https://drive.google.com/file/d/1CJsisWaeg1BOGmP304NMKiVhCjABVUnz/view?usp=sharing)
     - [A Walk-Through on Machine Learning Techniques for Sentinel Big Data Fusion](http://phiweek2018.esa.int/agenda/files/presentation260.pdf)
 
-**Entrega Informe No. 1 – 28 de septiembre** 
+**Entrega Informe No. 1 – 2 de octubre** 
 
 ## PARTE 2:   DEEP LEARNING FOR IMAGE ANALYSIS
 
 ## Semana 9 - 3 a 7 de octubre
 
 - Lecture:
+    - [Foundations of Deep Learning](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view?usp=sharing)
     - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
      
 - Practical:
-  - [Learn Tensorflow 2: Introduction to Computer Vision](https://codelabs.developers.google.com/codelabs/tensorflow-lab2-computervision/index.html?index=..%2F..index#0)
+  - Hands on DL foundations (see the slides and do the work outlined there)
   
  - Home activities:
-   - Read [*fastai* a layered API for Deep Learning](https://arxiv.org/pdf/2002.04688.pdf)
-   - Try image classification using *fastai*
-
+   - Read and take notes of [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
+  
 - Task:  
   - Students start writing  their second report on deep learning 
 
