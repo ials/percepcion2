@@ -109,10 +109,8 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
   - Hands on DL foundations (see the slides and do the work outlined there)
   
  - Home activities:
-   - Read and take notes of [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
-  
-- Task:  
-  - Students start writing  their second report on deep learning 
+   - Read [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
+   - Read and create Colab notebook of [Fully convolutional networks](https://drive.google.com/file/d/1CFb70ZceDXIsUWeWQGoCH1g0Fc7a-xDt/view?usp=sharing)
 
 
 ## Semana 10 – 10 a 14 de octubre
