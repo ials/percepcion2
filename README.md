@@ -103,7 +103,8 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 - Lecture:
     - [Foundations of Deep Learning](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view?usp=sharing)
-    - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)    
+    - [Building a linear regression model](https://drive.google.com/file/d/14QWp5Yzv6lkJhvTy4hTm-viW_M5LiqHW/view?usp=sharing)
+    
      
 - Practical:
   - Hands on DL foundations (see the slides and do the work outlined there)
@@ -115,8 +116,10 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 
 ## Semana 10 – 10 a 14 de octubre
  
-- Lecture:   Deep Learning for multispectral images
-     - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
+- Lecture: 
+     - Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)
+     - Deep Learning for multispectral images
+       - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
    
      - References:
        - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
