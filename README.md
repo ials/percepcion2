@@ -117,7 +117,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 10 – 10 a 14 de octubre
  
 - Lecture: 
-   - Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)
+   - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)
    - Convolutional neural networks
 
 - Practical: 
