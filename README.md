@@ -111,65 +111,61 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
   
  - Home activities:
    - Read [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
-   - Read and create Colab notebook of [Fully convolutional networks](https://drive.google.com/file/d/1CFb70ZceDXIsUWeWQGoCH1g0Fc7a-xDt/view?usp=sharing)
+   - Read and create Colab notebook on [Fully connected networks](https://drive.google.com/file/d/1CFb70ZceDXIsUWeWQGoCH1g0Fc7a-xDt/view?usp=sharing)
 
 
 ## Semana 10 – 10 a 14 de octubre
  
 - Lecture: 
-     - Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)
-     - Deep Learning for multispectral images
-       - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
-   
-     - References:
-       - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
-       - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
+   - Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)
+   - Convolutional neural networks
 
-- Practical: *Semantic segmentation of aerial images with deep networks*
-  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe)   
+- Practical: 
+  - *Convolutional neural networks* (see [this document](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view?usp=sharing) and write the code included there)
 
-- Homework:
-  - **Students start working on their second report: "Image analysis using DL techniques (or ML techniques if you want it)"** 
-  
-- Reading:
-  - [Beyond RGB: Very High Resolution Urban Remote
-Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
-
-
-- Practical:    
-  - Students  adapt the Le Saux's notebook  for their second report
-
+- Home activities:
+   - Complete the Colab notebook on *Convolutional neural networks*
 
 ## Semana 11 – 17 a  21 de octubre 
 
-- Topics:   
-  - [A 2020 guide to semantic segmentation](https://nanonets.com/blog/semantic-image-segmentation-2020/)
-  - [Convolutional Neural Networks Explained](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
-  - Deep Learning for Water Resurces
-    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
-    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
+- Lecture: 
+     - Deep Learning for multispectral images
+       - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
 
-- Suggested practical: 
-  - [Creation of a datablock for MS image segmentation](https://towardsdatascience.com/how-to-create-a-datablock-for-multispectral-satellite-image-segmentation-with-the-fastai-v2-bc5e82f4eb5)
 
+- Practical: *Semantic segmentation of aerial images with deep networks*
+  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) 
+  
+- Homework:
+  - **Students start working on their second report: "Image analysis using DL techniques"** 
+ 
+ - Reading:
+  - [Beyond RGB: Very High Resolution Urban Remote
+Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
+ 
+- Additional resources:
+   - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
+   - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
 ## Semana 12 – 24 a 28 de octubre
-
 
 - Topics:   Vegetation Remote Sensing
   - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
   - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
   - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
 
-- Practical:
-  - Students work on their second report
-  - PlantDoc  Jupyter notebook 
-  
+- Practical: 
+- Students  adapt the Le Saux's notebook  for their second report
+   
 - Additional resources:
+  - Deep Learning for Water Resurces
+    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
+    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
   - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
 
 ## Semana 13 – 31 de octubre a  4 de noviembre
 
+Topics:
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
    
@@ -177,29 +173,35 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
-- Task:  
+  
+- Homework:  
   - Students keep writing their second report: "Image analysis using DL"
 
 ## Semana 14 – 7 a 11 de noviembre 
 
-- Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
-  - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
+- Readings:
+  - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
+    - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
+    
+- Homework:  
+  - Students keep writing their second report: "Image analysis using DL"
 
 ## Semana 15 – 14 a 18 de noviembre
 
-  - GEE Applications Examples:
-    - [Learn GEE through examples](https://drive.google.com/file/d/1JpLAZn75eYgksJAgxCKuCh_LWnWNRjsK/view?usp=sharing)
-    - [Night-time lights: A global, long term look at links to socio-economic trends](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0174610&type=printable)
-    - [Mapping paddy rice planting area in northeastern Asia with Landsat 8 images, phenology-based algorithm and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S003442571630044X)
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
  -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
-
+ 
+- Homework:  
+  - Students revise their second report: "Image analysis using DL"
 
 ## Semana 16 – 21 a  25 de noviembre
 
 **Examen No. 2 – 23 de noviembre** 
+
+- Homework:  
+  - Students write the discussion of their second report: "Image analysis using DL"
 
 ## Semana 17 -  28 de noviembre a 2 de diciembre   
 
