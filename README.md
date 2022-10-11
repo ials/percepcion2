@@ -112,7 +112,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
  - Home activities:
    - Read [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
    - Read and create Colab notebook on [Fully connected networks](https://drive.google.com/file/d/1CFb70ZceDXIsUWeWQGoCH1g0Fc7a-xDt/view?usp=sharing)
-
+     - [Slides](https://drive.google.com/file/d/1kOBaot1oXjUl3Zp2DP4ECMtXt6GCF5CU/view?usp=sharing)
 
 ## Semana 10 – 10 a 14 de octubre
  
