@@ -112,19 +112,19 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
  - Home activities:
    - Read [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
    - Read and create Colab notebook on [Fully connected networks](https://drive.google.com/file/d/1CFb70ZceDXIsUWeWQGoCH1g0Fc7a-xDt/view?usp=sharing)
-     - [Slides](https://drive.google.com/file/d/1kOBaot1oXjUl3Zp2DP4ECMtXt6GCF5CU/view?usp=sharing)
+     - [*Slides*](https://drive.google.com/file/d/1kOBaot1oXjUl3Zp2DP4ECMtXt6GCF5CU/view?usp=sharing)
 
 ## Semana 10 – 10 a 14 de octubre
  
 - Lecture: 
    - [Deep Learning Basics](https://drive.google.com/file/d/19pDPFBAXZsYMZoDAqvJJm4j4Z9GLKjaP/view?usp=sharing)
-   - Convolutional neural networks
+   - [*Convolutional neural networks*](https://drive.google.com/file/d/1iKuK4BUHIkyrM0GLhfZE4_izi8_gT4NN/view?usp=sharing)
 
 - Practical: 
   - *Convolutional neural networks* (see [this document](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view?usp=sharing) and write the code included there)
 
 - Home activities:
-   - Complete the Colab notebook on *Convolutional neural networks*
+   - Complete your Colab notebook on *Convolutional neural networks*
 
 ## Semana 11 – 17 a  21 de octubre 
 
