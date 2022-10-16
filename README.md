@@ -129,10 +129,10 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 11 – 17 a  21 de octubre 
 
 - Lecture: 
-     - [Image segmentation]
+     - [Image segmentation]() 
 
 - Practical: 
-   - Students replicate [E.Raff code for image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
+   - Students replicate code for [image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
  
  - Reading:
   - [Beyond RGB: Very High Resolution Urban Remote
@@ -150,13 +150,13 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 - Topics:   
   -  Deep Learning for multispectral images
      - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
-
+     
 - Practical: 
   - *Semantic segmentation of aerial images with deep networks*
   - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) 
-
+  
 - Homework:
-- Students  adapt the Le Saux's notebook  for their second report
+  - Students  adapt the Le Saux's notebook  for their second report
    
 
 ## Semana 13 – 31 de octubre a  4 de noviembre
@@ -183,7 +183,7 @@ Topics:
 
 - Readings:
   - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
-    - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
+    -  [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/viewusp=sharing)
     
 - Additional resources:
   - Deep Learning for Water Resurces
