@@ -129,19 +129,17 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 11 – 17 a  21 de octubre 
 
 - Lecture: 
-     - Deep Learning for multispectral images
-       - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
+     - [Image segmentation]
 
-
-- Practical: *Semantic segmentation of aerial images with deep networks*
-  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) 
-  
-- Homework:
-  - **Students start working on their second report: "Image analysis using DL techniques"** 
+- Practical: 
+   - Students replicate [E.Raff code for image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
  
  - Reading:
   - [Beyond RGB: Very High Resolution Urban Remote
 Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
+
+- Home activities:
+   - Complete your Colab notebook on *Image segmentation*
  
 - Additional resources:
    - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
@@ -149,41 +147,51 @@ Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9Tk
 
 ## Semana 12 – 24 a 28 de octubre
 
-- Topics:   Vegetation Remote Sensing
-  - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
-  - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
-  - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
+- Topics:   
+  -  Deep Learning for multispectral images
+     - [Deep Learning for Remote Sensing](https://drive.google.com/file/d/1q62sPPrzWSr2cLUdqbt0wU4bFCPphOSL/view?usp=sharing) 
 
 - Practical: 
+  - *Semantic segmentation of aerial images with deep networks*
+  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) 
+
+- Homework:
 - Students  adapt the Le Saux's notebook  for their second report
    
-- Additional resources:
-  - Deep Learning for Water Resurces
-    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
-    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
-  - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
 
 ## Semana 13 – 31 de octubre a  4 de noviembre
 
 Topics:
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
-   
-- [Towards Geographically-Aware Machine Learning](https://youtu.be/wxHx3oBMQwg)   
+
+- Vegetation Remote Sensing
+  - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
+  - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
+  - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
   
 - Homework:  
-  - Students keep writing their second report: "Image analysis using DL"
+  - Students strat writing their second report: "Image analysis using DL"
 
 ## Semana 14 – 7 a 11 de noviembre 
+
+- Practical:
+  - Students  adapt the Le Saux's notebook  for their second report
 
 - Readings:
   - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
     - [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/view?usp=sharing)
     
-- Homework:  
+- Additional resources:
+  - Deep Learning for Water Resurces
+    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
+    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
+  - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
+    
+Homework:
   - Students keep writing their second report: "Image analysis using DL"
 
 ## Semana 15 – 14 a 18 de noviembre
