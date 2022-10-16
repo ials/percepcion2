@@ -135,8 +135,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
    - Students replicate code for [image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
  
  - Reading:
-  - [Beyond RGB: Very High Resolution Urban Remote
-Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
+  - [Beyond RGB: Urban Remote Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
 
 - Home activities:
    - Complete your Colab notebook on *Image segmentation*
