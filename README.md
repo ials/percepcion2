@@ -149,7 +149,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
      
 - Practical: 
   - *Semantic segmentation of aerial images with deep networks*
-  - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1Om2H3T9Kt4CtBBMieN0JHdR5-ZqJ1Cbe) 
+    - [DeepNetsForEO.ipynb](https://colab.research.google.com/drive/1cTYz3ZLpMrtQxXOtVDc-3lhn63SN4TrO?usp=sharing) 
   
 - Homework:
   - Students  adapt the Le Saux's notebook  for their second report
