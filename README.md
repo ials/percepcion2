@@ -132,17 +132,14 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
      - [Image segmentation]() 
 
 - Practical: 
-   - Students replicate code for [image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
- 
- - Reading:
-  - [Beyond RGB: Urban Remote Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
+   - Download nuclei data from [here](https://drive.google.com/file/d/1f2JSHUdgyuK_aygxA9Z5JMwN0ArJFd5I/view?usp=sharing)
+   - Upload nuclei data to your Gdrive
+   - Replicate code for [image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
 
-- Home activities:
+ - Home activities:
    - Complete your Colab notebook on *Image segmentation*
+   - Read [Beyond RGB: Urban Remote Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?) (Audebert,2018)
  
-- Additional resources:
-   - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
-   - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)
 
 ## Semana 12 – 24 a 28 de octubre
 
@@ -156,7 +153,9 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
   
 - Homework:
   - Students  adapt the Le Saux's notebook  for their second report
-   
+  - Readings:
+    - [Le Saux's presentation](https://blesaux.github.io/courses/JURSE_Deep_Learning_for_Remote_Sensing_Tutorial.pdf)
+    - [Le Saux's website](https://blesaux.github.io/teaching/DL4RS)  
 
 ## Semana 13 – 31 de octubre a  4 de noviembre
 
