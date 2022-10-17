@@ -129,7 +129,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 11 – 17 a  21 de octubre 
 
 - Lecture: 
-     - [Image segmentation]() 
+     - Image segmentation 
 
 - Practical: 
    - Download nuclei data from [here](https://drive.google.com/file/d/1f2JSHUdgyuK_aygxA9Z5JMwN0ArJFd5I/view?usp=sharing) and upload it to your GDrive
@@ -193,7 +193,6 @@ Homework:
   - Students keep writing their second report: "Image analysis using DL"
 
 ## Semana 15 – 14 a 18 de noviembre
-
 
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
