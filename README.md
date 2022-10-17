@@ -129,7 +129,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 11 – 17 a  21 de octubre 
 
 - Lecture: 
-     - Image segmentation 
+     - [Image segmentation](https://drive.google.com/file/d/1hvuODd2jrSLxTp0fPQbD12YYX727Bj89/view?usp=sharing) 
 
 - Practical: 
    - Download nuclei data from [here](https://drive.google.com/file/d/1f2JSHUdgyuK_aygxA9Z5JMwN0ArJFd5I/view?usp=sharing) and upload it to your GDrive
