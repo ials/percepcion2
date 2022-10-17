@@ -132,8 +132,8 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
      - [Image segmentation]() 
 
 - Practical: 
-   - Download nuclei data from [here](https://drive.google.com/file/d/1f2JSHUdgyuK_aygxA9Z5JMwN0ArJFd5I/view?usp=sharing)
-   - Upload nuclei data to your Gdrive
+   - Download nuclei data from [here](https://drive.google.com/file/d/1f2JSHUdgyuK_aygxA9Z5JMwN0ArJFd5I/view?usp=sharing) and upload it to your GDrive
+   - Check [idlmam.py](https://drive.google.com/file/d/1-v7pb8JJuxIYhha--ELSDrybaYaa1LRi/view?usp=sharing) and upload it to your GDrive
    - Replicate code for [image segmentation](https://drive.google.com/file/d/1vJBqqro9BYFnDdqH9y-9oqDs3pbWar-E/view?usp=sharing)   
 
  - Home activities:
