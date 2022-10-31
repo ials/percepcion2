@@ -164,11 +164,6 @@ Topics:
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
 
-- Vegetation Remote Sensing
-  - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
-  - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
-  - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
-
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
   
@@ -177,6 +172,11 @@ Topics:
 
 ## Semana 14 – 7 a 11 de noviembre 
 
+- Vegetation Remote Sensing
+  - [Deep Learning for Automatic Outlining Agricultural Parcels](https://accedacris.ulpgc.es/bitstream/10553/70722/2/deep_learning_automatic.pdf)
+  - [Vegetation detection using DL](https://www.mdpi.com/2072-4292/12/15/2502)
+  - [Plant diseases recognition using DL - a review](https://arxiv.org/abs/2009.04365)
+
 - Practical:
   - Students  adapt the Le Saux's notebook  for their second report
 
@@ -184,20 +184,23 @@ Topics:
   - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
     -  [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/viewusp=sharing)
     
-- Additional resources:
-  - Deep Learning for Water Resurces
-    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
-    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
-  - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
     
 Homework:
   - Students keep writing their second report: "Image analysis using DL"
 
 ## Semana 15 – 14 a 18 de noviembre
 
+- Topics:
+  - Deep Learning for Water Resurces
+    - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
+    - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
+
+- Additional resources:
+  - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
+
 - Readings:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part II: Applications](https://www.mdpi.com/2072-4292/12/18/3053)
- -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
+  -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
  
 - Homework:  
   - Students revise their second report: "Image analysis using DL"
