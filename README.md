@@ -160,6 +160,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 13 – 31 de octubre a  4 de noviembre
 
 Topics:
+-  [Semantic segmentation revisited](https://drive.google.com/file/d/1D1HEtZ0qa05h-Ykgg3X3T2JRIxNxFntN/view?usp=sharing)
 -  Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
    - [Introductory chapter](https://drive.google.com/file/d/1CkwMhR0fEpt5i7UvIQs0EdJAoh-kAXUH/view?usp=sharing) 
 
