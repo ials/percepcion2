@@ -168,7 +168,7 @@ Topics:
   - [Object Detection and Image Segmentation with Deep Learning on Earth Observation Data: A Review-Part I: Evolution and Recent Trends](https://www.mdpi.com/2072-4292/12/10/1667)
   
 - Homework:  
-  - Students strat writing their second report: "Image analysis using DL"
+  - Students start writing their second report: "Image analysis using DL"
 
 ## Semana 14 – 7 a 11 de noviembre 
 
@@ -181,8 +181,7 @@ Topics:
   - Students  adapt the Le Saux's notebook  for their second report
 
 - Readings:
-  - Deep Learning for Earth Sciences (Camps-Walls et al., 2021)
-    -  [Semantic segmentation in remote sensing](https://drive.google.com/file/d/1OUg0r2W8Su7SiqsTsABTbTuRJSfuYNN5/viewusp=sharing)
+    -  [U-Net feature fusion for multi-class semantic segmentation](https://germain-forestier.info/publis/ijrs2022.pdf)
     
     
 Homework:
@@ -210,7 +209,7 @@ Homework:
 **Examen No. 2 – 23 de noviembre** 
 
 - Homework:  
-  - Students write the discussion of their second report: "Image analysis using DL"
+  - Students write  discussion & conclusions for their second report: "Image analysis using DL"
 
 ## Semana 17 -  28 de noviembre a 2 de diciembre   
 
