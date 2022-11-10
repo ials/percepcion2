@@ -193,6 +193,7 @@ Homework:
   - Deep Learning for Water Resurces
     - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
     - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
+  - [Vision Transformers for Semantic Segmentation](https://arxiv.org/pdf/2105.05633.pdf)
 
 - Additional resources:
   - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
