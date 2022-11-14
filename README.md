@@ -193,7 +193,11 @@ Homework:
   - Deep Learning for Water Resurces
     - [RivaMap: An Automated River Analysis and Mapping Engine](https://github.com/isikdogan/rivamap)
     - [DeepWaterMap](https://github.com/isikdogan/deepwatermap)
+    
   - [Vision Transformers for Semantic Segmentation](https://arxiv.org/pdf/2105.05633.pdf)
+  
+- Practical:
+  - [Inference of water from multispectral images](https://colab.research.google.com/drive/1KdbwbACwcw1M2XJsfHo8QV7J950hIhDE?usp=sharing)
 
 - Additional resources:
   - [Canopy/land cover analysis for the City of Sammamish](https://www.sammamish.us/attachments/pagecontent/49990/LAND%20AND%20CANOPY%20COVER%20ANALYSIS%20-%20Final.compressed.pdf)
@@ -203,14 +207,14 @@ Homework:
   -  [A survey of public datasets for computer vision tasks in precision agriculture](https://www.sciencedirect.com/science/article/pii/S0168169920312709)
  
 - Homework:  
-  - Students revise their second report: "Image analysis using DL"
+  - Students write their second report: "Image analysis using DL"
 
 ## Semana 16 – 21 a  25 de noviembre
 
 **Examen No. 2 – 23 de noviembre** 
 
 - Homework:  
-  - Students write  discussion & conclusions for their second report: "Image analysis using DL"
+  - Students complete and revise their second report: "Image analysis using DL"
 
 ## Semana 17 -  28 de noviembre a 2 de diciembre   
 
