@@ -213,6 +213,9 @@ Homework:
 
 **Examen No. 2 – 23 de noviembre** 
 
+- Example of ML for image analysis:
+  - [Crop disease severity](https://drive.google.com/file/d/1oYP2hV8ncy-9M5QXMQvIiBVuQa6ewnmh/view?usp=sharing)
+
 - Homework:  
   - Students complete and revise their second report: "Image analysis using DL"
 
