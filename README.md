@@ -84,6 +84,7 @@ Este es un curso que se dictará  entre el 10 de agosto de 2022 y el 30 de novie
 ## Semana 7 -  19 a 23 de septiembre
 
 **Examen No. 1 – 21 de septiembre** 
+  - [Notas Examen No. 1](https://drive.google.com/file/d/102frlK1Sb1lA6MzK4QlDrrCx_Q2bDe53/view?usp=sharing)
 
 - Home activities:
   - SAR image analysis
