@@ -212,6 +212,7 @@ Homework:
 ## Semana 16 – 21 a  25 de noviembre
 
 **Examen No. 2 – 23 de noviembre** 
+  - [Notas Examen No.2](https://drive.google.com/file/d/1aX5LSZ2sN9kORi-yRqEmPq3ibNLPPABK/view?usp=sharing)
 
 - Example of ML for image analysis:
   - [Crop disease severity](https://drive.google.com/file/d/1oYP2hV8ncy-9M5QXMQvIiBVuQa6ewnmh/view?usp=sharing)
