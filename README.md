@@ -225,6 +225,8 @@ Homework:
 
 **Entrega Informe  No. 2 – 30 de noviembre** 
 
+[Notas Informe No. 2](https://drive.google.com/file/d/1eDbR2l5ap4UTNVdRO5eGHHA_zxDsaOhX/view?usp=share_link)
+
 
   
 
